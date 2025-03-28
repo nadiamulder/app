@@ -3,6 +3,20 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
+import pandas as pd
+
+# Load the full exchange list
+@st.cache_data
+def load_exchange_data():
+    try:
+        df = pd.read_csv("All_Exchange_Categories.csv")
+        return df
+    except FileNotFoundError:
+        st.error("Exchange data file not found.")
+        return pd.DataFrame()
+
+exchange_df = load_exchange_data()
+
 st.set_page_config(page_title="Meal Planner", layout="wide")
 
 # --- Load exchange lists dynamically ---
