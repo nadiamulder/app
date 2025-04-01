@@ -1,0 +1,1361 @@
+description,MET
+"Bicycling, mountain, uphill, vigorous #1 #1​ (ID001)",14.0
+"Bicycling, mountain, competitive racing #1 #1​ (ID002)",16.0
+"Bicycling, BMX #1 #1​ (ID003)",8.5
+"Bicycling, mountain, general #1 #1​ (ID004)",8.5
+"Bicycling, <10 mph, leisure, to work or for pleasure #1 #1​ (ID005)",4.0
+"Bicycling, to/from work, self selected pace #1 #1​ (ID006)",6.8
+"Bicycling, on dirt or farm road, moderate pace #1 #1​ (ID007)",5.8
+"Bicycling, general #1 #1​ (ID008)",7.0
+"Bicycling, self-selected easy pace #1 #1​ (ID009)",4.3
+"Bicycling, self-selected moderate pace #1 #1​ (ID010)",7.0
+"Bicycling, self-selected vigorous pace #1 #1​ (ID011)",9.0
+"Bicycling, leisure 5.5 mph #1 #1​ (ID012)",3.5
+"Bicycling, leisure, 9.4 mph #1 #1​ (ID013)",5.8
+"Bicycling, 10-11.9 mph, leisure, slow, light effort #1 #1​ (ID014)",6.8
+"Bicycling, 12-13.9 mph, leisure, moderate effort #1 #1​ (ID015)",8.0
+"Bicycling, 14-15.9 mph, racing or leisure, fast, vigorous effort #1 #1​ (ID016)",10.0
+"Bicycling, 16-19 mph, racing/not drafting or >19 mph very fast #1 #1​ (ID017)",12.0
+"Bicycling, >20 mph, racing, not drafting #1 #1​ (ID018)",16.8
+"Bicycling, 12 mph, seated, hands on brake hoods 80 rpm #1 #1​ (ID019)",8.5
+"Bicycling, 12 mph, standing, hands on brake hoods, 60 rpm #1 #1​ (ID020)",9.0
+Unicycling #1 #1​ (ID021),5.0
+E-bike #1 #1​ (ID022),6.8
+E-bike #2 #1​ (ID023),6.0
+E-bike #3 #1​ (ID024),4.0
+"Bicycling, stationary, general #1 #1​ (ID025)",6.8
+"Bicycling, stationary, 25-30 watts, very light to light effort #1 #1​ (ID026)",3.5
+"Bicycling, stationary, 50 watts, light effort #1 #1​ (ID027)",4.0
+"Bicycling, stationary, 60 watts, light to moderate effort #1 #1​ (ID028)",5.0
+"Bicycling, stationary, 70-80 watts #1 #1​ (ID029)",5.8
+"Bicycling, stationary, 90-100 watts,  moderate to vigorous #1 #1​ (ID030)",6.0
+"Bicycling, stationary, 101-125 watts #1 #1​ (ID031)",6.8
+"Bicycling, stationary, 126-150 watts #1 #1​ (ID032)",8.0
+"Bicycling, stationary, 151-199 watts #1 #1​ (ID033)",10.3
+"Bicycling, stationary, 200-229 watts, vigorous #1 #1​ (ID034)",10.8
+"Bicycling, stationary, 230-250 watts, very vigorous #1 #1​ (ID035)",12.5
+"Bicycling, stationary, 270-305 watts, very vigorous #1 #1​ (ID036)",13.8
+"Bicycling, stationary, >325 watts, very vigorous #1 #1​ (ID037)",16.3
+"Bicycling, concentric only, 100 W #1 #1​ (ID038)",5.5
+"Bicycling, concentric only, 200 W #1 #1​ (ID039)",11.0
+"Bicycling, eccentric only, 100 to 149 W #1 #1​ (ID040)",2.3
+"Bicycling, eccentric only, 200 W #1 #1​ (ID041)",4.0
+"Bicycling, stationary, RPM/Spin bike class #1 #1​ (ID042)",9.0
+"Bicycling, interactive virtual cycling, indoor cycle ergometer #1 #1​ (ID043)",8.8
+"Bicycling, high intensity interval training #1 #1​ (ID044)",8.8
+"Aerobic, general #1 #1​ (ID045)",7.3
+"Aerobic, step, with 4-inch step #1 #1​ (ID046)",5.5
+"Aerobic, step, with 6 – 8 inch step #1 #1​ (ID047)",7.3
+"Aerobic, step, with 10 – 12 inch step #1 #1​ (ID048)",9.0
+"Bench step class, general #1 #1​ (ID049)",7.8
+"Aerobic dance, low impact, moderate effort #1 #1​ (ID050)",4.8
+"Aerobic dance, high impact, vigorous effort #1 #1​ (ID051)",8.0
+Aerobic dance wearing 10-15 lb weights #1 #1​ (ID052),10.0
+"Army type obstacle course exercise, boot camp training program #1 #1​ (ID053)",5.0
+Calisthenics #1 #1​ (ID054),7.5
+Calisthenics #2 #1​ (ID055),3.8
+Calisthenics #3 #1​ (ID056),2.8
+"Calisthenics, light or moderate effort, general #1 #1​ (ID057)",3.5
+"Circuit training, body weight exercises #1 #1​ (ID058)",6.0
+"Circuit training, light effort #1 #1​ (ID059)",3.5
+"Circuit training, moderate effort #1 #1​ (ID060)",5.0
+"Circuit training, cardio and kettlebells, vigorous intensity #1 #1​ (ID061)",7.5
+Curves™ exercise routines in women #1 #1​ (ID062),3.5
+"Elliptical trainer, moderate effort #1 #1​ (ID063)",5.0
+"Elliptical trainer, vigorous effort #1 #1​ (ID064)",9.0
+Resistance #1 #1​ (ID065),6.0
+Resistance #2 #1​ (ID066),5.0
+Resistance #3 #1​ (ID067),3.5
+"Resistance Training, circuit, reciprocol supersets, peripheral hear action training #1 #1​ (ID068)",5.8
+Body weight resistance exercises #1 #1​ (ID069),3.0
+Body weight resistance exercises #2 #1​ (ID070),6.5
+Kettle bell swings #1 #1​ (ID071),9.8
+"Health club exercise, general #1 #1​ (ID072)",5.5
+"Health club exercise classes general, gym/weight training combined in one visit #1 #1​ (ID073)",5.0
+"Health club exercise, conditioning classes #1 #1​ (ID074)",7.8
+"Home exercise, general #1 #1​ (ID075)",3.8
+"Stair treadmill ergometer, general #1 #1​ (ID076)",9.3
+"Rope skipping exercise, general #1 #1​ (ID077)",11.0
+"Jumping rope, Digi-Jump Maching, 120 jumps/minute #1 #1​ (ID078)",9.0
+"Rowing, stationary ergometer, general, vigorous effort #1 #1​ (ID079)",7.3
+"Rowing, stationary ergometer, general, <100 watts,  moderate effort #1 #1​ (ID080)",5.0
+"Rowing, stationary, 100 to 149 watts, vigorous effort #1 #1​ (ID081)",7.5
+"Rowing, stationary, 150 to 199 watts, vigorous effort #1 #1​ (ID082)",11.0
+"Rowing, stationary, ≥ 200 watts, very vigorous effort #1 #1​ (ID083)",14.0
+"Shuttle running, forward/backward/lateral #1 #1​ (ID084)",11.0
+"Ski machine, general #1 #1​ (ID085)",6.8
+"Ski ergometer, cross country, double poling, slow to moderate speed #1 #1​ (ID086)",10.5
+"Ski ergometer, cross country, double poling, fast to maximum speed #1 #1​ (ID087)",18.0
+"Slide board exercise, general #1 #1​ (ID088)",10.5
+"Slimnastics, jazzercise #1 #1​ (ID089)",6.0
+"Stretching, mild #1 #1​ (ID090)",2.3
+"Pilates, traditional, mat #1 #1​ (ID091)",1.8
+"Pilates, general #1 #1​ (ID092)",2.8
+"Pound, combination of Pilates and body movements with drumming #1 #1​ (ID093)",8.5
+"Pole dancing, exercise class #1 #1​ (ID094)",4.5
+Teaching exercise classes #1 #1​ (ID095),6.8
+"Therapeutic exercise ball, Fitball exercise #1 #1​ (ID096)",2.8
+"Therapeutic exercise ball, Fitball exercise, high intensity #1 #1​ (ID097)",9.5
+"Upper body exercise, arm ergometer, general, light #1 #1​ (ID098)",2.8
+"Arm Ergometer, hand bike, 15W #1 #1​ (ID099)",2.0
+"Arm Ergometer, hand bike, 25-30W #1 #1​ (ID100)",2.8
+"Arm Ergometer, hand bike, 45W #1 #1​ (ID101)",3.5
+"Upper body exercise, stationary bicycle - 40 rpm, moderate intensity #1 #1​ (ID102)",4.3
+"Water aerobics, water calisthenics, water exercise #1 #1​ (ID103)",5.3
+"Whirlpool, sitting #1 #1​ (ID104)",1.3
+"Video, exercise workouts, #1 #1​ (ID105)",2.5
+"Video, exercise workouts, #2 #1​ (ID106)",4.0
+"Video, exercise workouts, #3 #1​ (ID107)",6.0
+"Yoga, Hatha #1 #1​ (ID108)",2.3
+"Yoga, Hatha, high intensity #1 #1​ (ID109)",8.0
+"Yoga, Hot #1 #1​ (ID110)",3.0
+"Yoga, Power #1 #1​ (ID111)",4.0
+"Yoga, Nadisodhana #1 #1​ (ID112)",2.0
+"Yoga, General #1 #1​ (ID113)",2.3
+"Yoga, Surya Namaskar #1 #1​ (ID114)",3.5
+"Yoga, Vinyasa #1 #1​ (ID115)",2.7
+"Native New Zealander PA,general moderate effort #1 #1​ (ID116)",5.3
+"Native New Zealander PA, general, vigorous effort #1 #1​ (ID117)",6.8
+"High intensity interval exercise,  moderate effort #1 #1​ (ID118)",7.0
+"High intensity interval exercise,  burpees, mountain climbers, vigorous effort #1 #1​ (ID119)",11.0
+Balance Exercise Assist Robot #1 #1​ (ID120),2.3
+Hooping #1 #1​ (ID121),5.8
+"Impulse Training System, Inertial Exercise Trainer #1 #1​ (ID122)",9.0
+"Virtual Reality Fitness,  Supernatural™ “Flow”, “Boxing"" vigorous intensity #1 #1​ (ID123)",7.9
+"ExerCube, workout series #1 #1​ (ID124)",9.3
+"Blackbox Immersive virtual reality exergaming system, vigorous intensity #1 #1​ (ID125)",13.0
+"Wand exercise, Life-Build-Line #1 #1​ (ID126)",3.0
+"Zumba, group class #1 #1​ (ID127)",6.5
+"Zumba, home video #1 #1​ (ID128)",5.5
+"Sit to stand exercise, 6-12 times/min #1 #1​ (ID129)",2.8
+"Sit to stand exercise, 18-24 times/min #1 #1​ (ID130)",4.0
+Afro-Cuban salsa #1 #1​ (ID131),6.0
+"Ballet, modern, or jazz general, rehearsal or class #1 #1​ (ID132)",5.0
+Ballet exercises #1 #1​ (ID133),6.3
+"Ballet, modern, or jazz, performance, vigorous effort #1 #1​ (ID134)",6.8
+Tap #1 #1​ (ID135),4.8
+Ethnic or cultural dancing #1 #1​ (ID136),4.5
+"Chinese square dance, Ballet & Tibetan dance #1 #1​ (ID137)",5.5
+"Chinese square dance, aerobic dance #1 #1​ (ID138)",7.3
+"Ballroom dancing, fast #1 #1​ (ID139)",5.5
+"Nightclub or folk dancing, vigorous effort #1 #1​ (ID140)",9.8
+"Folk dancing, moderate effort #1 #1​ (ID141)",5.0
+"Ballroom dancing, competitive, general #1 #1​ (ID142)",11.3
+"ballroom dance, DanceSport competition #1 #1​ (ID143)",13.0
+"Ballroom, slow, examples: waltz, foxtrot, slow dancing, etc #1 #1​ (ID144)",3.0
+"Ballroom Dance, Recreational #1 #1​ (ID145)",6.0
+"Traditional dancing, moderate effort #1 #1​ (ID146)",5.5
+Caribbean dance #1 #1​ (ID147),3.5
+"Contemporary dancing, general #1 #1​ (ID148)",3.8
+"Contemporary dancing, nightclub #1 #1​ (ID149)",4.3
+Flamenco dance #1 #1​ (ID150),8.5
+"Jazz dancing, general #1 #1​ (ID151)",4.5
+"Musical Theater, Singing/dancing #1 #1​ (ID152)",10.3
+"Polynesian dance, Hawaiian hula slow, Maori haka, Tongan #1 #1​ (ID153)",5.8
+"Polynesian dance, Hawaiian hula fast, Samoan sasa, Fijian style fast, Filipino Tinikling #1 #1​ (ID154)",7.0
+"Polynesian dance, Samoan slap, Tahitian #1 #1​ (ID155)",8.8
+"Salsa Dancing, with partner #1 #1​ (ID156)",4.8
+"Salsa dancing, to a video #1 #1​ (ID157)",6.3
+"Square Dancing, American Western, country #1 #1​ (ID158)",5.5
+"Fishing, general #1 #1​ (ID159)",3.5
+"Fishing, crab fishing #1 #1​ (ID160)",4.5
+"Fishing, catching fish with hands #1 #1​ (ID161)",4.0
+"Fishing related, digging worms, with shovel #1 #1​ (ID162)",4.3
+Fishing from river bank and walking #1 #1​ (ID163),4.0
+"Fishing from boat or canoe, sitting #1 #1​ (ID164)",2.0
+"Fishing from river bank, standing #1 #1​ (ID165)",3.5
+"Fishing in stream, in waders #1 #1​ (ID166)",6.0
+"Fishing, ice, sitting #1 #1​ (ID167)",2.0
+"Fishing, jig or line, standing, general #1 #1​ (ID168)",1.8
+"Fishing, dip net, setting net and retrieving fish, general #1 #1​ (ID169)",3.5
+"Fishing, set net, setting net and retrieving fish, general #1 #1​ (ID170)",3.8
+"Fishing, fishing wheel, setting net and retrieving fish, general #1 #1​ (ID171)",3.0
+"Fishing with a spear, standing #1 #1​ (ID172)",2.3
+"Hunting, bow and arrow or crossbow #1 #1​ (ID173)",2.5
+"Hunting, deer, elk, large game #1 #1​ (ID174)",6.0
+"Hunting large game, dragging carcass #1 #1​ (ID175)",9.8
+Hunting large marine animals #1 #1​ (ID176),4.0
+"Hunting, large game from a hunting stand, limited walking #1 #1​ (ID177)",2.5
+"Hunting large game from a car, plane, or boat #1 #1​ (ID178)",2.0
+"Hunting, duck, wading #1 #1​ (ID179)",2.5
+"Hunting flying fox, squirrel #1 #1​ (ID180)",3.0
+"Hunting, general #1 #1​ (ID181)",5.0
+"Hunting, pheasants or grouse #1 #1​ (ID182)",6.0
+Hunting birds #1 #1​ (ID183),3.3
+"Hunting, rabbit, squirrel, prairie chick, raccoon, small game #1 #1​ (ID184)",5.0
+"Hunting pigs, wild #1 #1​ (ID185)",3.3
+"Trapping game, general #1 #1​ (ID186)",2.0
+Hunting - hiking with hunting gear #1 #1​ (ID187),9.5
+"Pistol shooting or trap shooting, standing #1 #1​ (ID188)",2.5
+"Rifle exercises, shooting, lying down #1 #1​ (ID189)",2.3
+"Rifle exercises, shooting, kneeling or standing #1 #1​ (ID190)",2.5
+"Foraging, 0-9.9kg backpack #1 #1​ (ID191)",2.8
+"Foraging, 10-15kg backpack #1 #1​ (ID192)",3.0
+"Sitting in boat, passenger #1 #1​ (ID193)",1.0
+Standing in boat #1 #1​ (ID194),1.5
+"Activities in a boat, lifting, lowering #1 #1​ (ID195)",3.3
+"Cleaning, sweeping carpet or floors, general #1 #1​ (ID196)",3.3
+"Cleaning, sweeping, slow, light effort #1 #1​ (ID197)",2.3
+"Cleaning, sweeping, fast, moderate effort #1 #1​ (ID198)",3.8
+Cleaning  heavy or major #1 #1​ (ID199),3.5
+"Cleaning, mopping, standing, moderate effort #1 #1​ (ID200)",3.5
+"Cleaning windows, washing windows, general #1 #1​ (ID201)",3.3
+"Mopping, standing, light effort #1 #1​ (ID202)",2.5
+"Polishing floors, standing, walking slowly, using electric polishing machine #1 #1​ (ID203)",4.5
+"Multiple household tasks all at once, light effort #1 #1​ (ID204)",2.8
+"Multiple household tasks all at once, moderate effort #1 #1​ (ID205)",3.3
+"Multiple household tasks all at once, vigorous effort #1 #1​ (ID206)",4.3
+"Cleaning, house or cabin, general, moderate effort #1 #1​ (ID207)",3.3
+"Dusting or polishing furniture, general #1 #1​ (ID208)",2.5
+"Kitchen activity, general, #1 #1​ (ID209)",3.3
+"Cleaning, general #1 #1​ (ID210)",2.5
+"Wash dishes, standing or in general #1 #1​ (ID211)",2.0
+"Wash dishes, clearing dishes from table, walking, light effort #1 #1​ (ID212)",2.0
+"Vacuuming, general, moderate effort #1 #1​ (ID213)",3.0
+"Butchering animals, small #1 #1​ (ID214)",3.0
+"Butchering animals, large, vigorous effort #1 #1​ (ID215)",6.0
+"Cutting and smoking fish, drying fish or meat #1 #1​ (ID216)",2.3
+"Tanning hides, general #1 #1​ (ID217)",4.0
+"Cooking or food preparation, moderate effort #1 #1​ (ID218)",3.5
+"Cooking or food preparation - standing or sitting or in general, manual appliances, light effort #1 #1​ (ID219)",2.0
+"Cooking or food preparation, walking #1 #1​ (ID220)",2.3
+"Serving food, setting/cleaning table, implied walking or standing #1 #1​ (ID221)",2.3
+Feeding household animals #1 #1​ (ID222),2.5
+"carrying groceries, on level ground, walking #1 #1​ (ID223)",3.5
+Putting away groceries #1 #1​ (ID224),2.5
+Carrying groceries upstairs #1 #1​ (ID225),5.3
+Cooking Indian bread or other food on an outside stove #1 #1​ (ID226),3.0
+Food shopping with or without a grocery cart; carrying a 10 lb bag #1 #1​ (ID227),3.3
+"Non-food shopping, with or without cart, standing or walking #1 #1​ (ID228)",2.3
+Ironing #1 #1​ (ID229),1.8
+"Knitting, sewing, light effort, wrapping presents, sitting #1 #1​ (ID230)",1.3
+Sewing with a machine #1 #1​ (ID231),2.8
+"Laundry, light effort #1 #1​ (ID232)",2.3
+"Laundry, fold or hang clothes, sitting #1 #1​ (ID233)",2.0
+"Laundry,  moderate effort #1 #1​ (ID234)",4.0
+"Laundry,  putting away clothes #1 #1​ (ID235)",2.0
+"Making bed, changing linens #1 #1​ (ID236)",3.0
+Maple syruping/sugar bushing #1 #1​ (ID237),5.0
+"Moving furniture, household items, carrying boxes #1 #1​ (ID238)",5.8
+"Moving, lifting light loads #1 #1​ (ID239)",5.0
+Organizing a room #1 #1​ (ID240),4.8
+"Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, moderate effort #1 #1​ (ID241)",3.5
+"Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, light effort #1 #1​ (ID242)",2.0
+"Scrubbing floors, on hands and knees, scrubbing bathroom, bathtub, vigorous effort #1 #1​ (ID243)",6.5
+"Sweeping garage, sidewalk, or outside house #1 #1​ (ID244)",3.0
+"Standing, packing/unpacking boxes, occasional lifting lightweight household items, loading or unloading items into a car, moderate effort #1 #1​ (ID245)",3.8
+"Implied walking, putting away household items, moderate effort #1 #1​ (ID246)",3.0
+Watering  plants #1 #1​ (ID247),2.0
+Building a fire inside #1 #1​ (ID248),2.5
+"Moving household items upstairs, carrying boxes or furniture #1 #1​ (ID249)",9.0
+"Standing, light effort tasks #1 #1​ (ID250)",2.0
+"Walking, moderate effort tasks, non-cleaning #1 #1​ (ID251)",3.5
+"Sitting, playing with child #1 #1​ (ID252)",2.3
+"Standing, playing with child #1 #1​ (ID253)",2.8
+"Walking/running, playing with child #1 #1​ (ID254)",3.5
+"Walking/running, playing with child #2 #1​ (ID255)",5.8
+"Walking and carrying small child, child weighing 15 lbs or more #1 #1​ (ID256)",3.0
+"Walking and carrying small child, child weighing less than 15 lbs #1 #1​ (ID257)",2.5
+"Standing, holding child #1 #1​ (ID258)",2.0
+"Child care, infant, general #1 #1​ (ID259)",2.5
+"Child care: sitting or kneeling, dressing, bathing, grooming, feeding, occasional lifting of child-light effort, general #1 #1​ (ID260)",2.0
+"Child care: standing, dressing, bathing, grooming, feeding, occasional lifting of child- light effort #1 #1​ (ID261)",3.5
+Reclining with baby #1 #1​ (ID262),1.5
+"Breastfeeding, sitting or reclining #1 #1​ (ID263)",2.0
+"Sit, playing with animals, light, only active period #1 #1​ (ID264)",2.5
+"Stand, playing with animals, light effort, only active periods #1 #1​ (ID265)",2.8
+"Walk or run, playing with animals, general, light effort, only active periods #1 #1​ (ID266)",2.8
+"Walk/run, playing with animals, moderate effort, only active periods #1 #1​ (ID267)",4.0
+"Walk/run, playing with animals, vigorous effort, only active periods #1 #1​ (ID268)",5.0
+"Standing, bathing dog #1 #1​ (ID269)",3.5
+"Animal care, household animals, general #1 #1​ (ID270)",2.3
+"Elder care, disabled adult, bathing, dressing, moving into and out of bed, only active periods #1 #1​ (ID271)",3.0
+"Elder care, disabled adult, feeding, combing hair, light effort, only active periods #1 #1​ (ID272)",1.8
+Handwashing #1 #1​ (ID273),1.3
+Airplane repair #1 #1​ (ID274),3.0
+Automobile body work #1 #1​ (ID275),4.0
+"Automobile repair, light or moderate effort #1 #1​ (ID276)",3.3
+"Carpentry, general, workshop #1 #1​ (ID277)",3.0
+"Carpentry, outside house, #1 #1​ (ID278)",6.0
+"Carpentry, outside house, building a fence #1 #1​ (ID279)",3.8
+"Carpentry, finishing, varnishing, or refinishing cabinets or furniture #1 #1​ (ID280)",3.3
+"Carpentry, sawing hardwood, planing and drilling wood, moderate-to-vigorous effort #1 #1​ (ID281)",6.0
+"Carpentry, home remodeling tasks, moderate effort #1 #1​ (ID282)",4.0
+"Carpentry, home remodeling tasks, light effort #1 #1​ (ID283)",2.3
+"Caulking, chinking log cabin #1 #1​ (ID284)",5.0
+"Caulking, except log cabin #1 #1​ (ID285)",4.5
+Cleaning gutters #1 #1​ (ID286),5.0
+Excavating garage #1 #1​ (ID287),5.0
+Hanging storm windows #1 #1​ (ID288),5.0
+Hanging sheet rock inside house #1 #1​ (ID289),5.0
+Hammering nails #1 #1​ (ID290),3.0
+"Home repair, general, light effort #1 #1​ (ID291)",2.5
+"Home repair, general, moderate effort #1 #1​ (ID292)",4.5
+"Home repair, general, vigorous effort #1 #1​ (ID293)",6.0
+Laying or removing carpet #1 #1​ (ID294),4.5
+Laying tile or linoleum #1 #1​ (ID295),3.8
+Repairing appliances #1 #1​ (ID296),3.0
+"Painting, outside home #1 #1​ (ID297)",5.0
+"Painting inside house, wallpapering, scraping paint #1 #1​ (ID298)",3.3
+Painting #1 #1​ (ID299),4.5
+"Plumbing, general #1 #1​ (ID300)",3.0
+Put on and removal of tarp – sailboat #1 #1​ (ID301),3.0
+Roofing #1 #1​ (ID302),6.0
+Sanding floors with a power sander #1 #1​ (ID303),4.5
+Scraping and painting sailboat or powerboat #1 #1​ (ID304),4.5
+Sharpening tools #1 #1​ (ID305),2.0
+Spreading dirt with a shovel #1 #1​ (ID306),5.0
+Washing and waxing hull of sailboat or airplane #1 #1​ (ID307),4.5
+Washing and waxing car #1 #1​ (ID308),2.0
+"Washing fence, painting fence, moderate effort #1 #1​ (ID309)",4.5
+"Wiring, tapping-splicing #1 #1​ (ID310)",3.3
+Lying quietly and watching television #1 #1​ (ID311),1.0
+"Lying quietly, doing nothing, lying in bed awake, listening to music #1 #1​ (ID312)",1.0
+"Sit, watch television #1 #1​ (ID313)",1.0
+"Sitting quietly, general #1 #1​ (ID314)",1.0
+"Sitting quietly, fidgeting, general, fidgeting hands #1 #1​ (ID315)",1.5
+"Sitting, fidget feet #1 #1​ (ID316)",1.8
+Sitting smoking #1 #1​ (ID317),1.3
+"Sitting, listening to music #1 #1​ (ID318)",1.5
+"Sitting at a desk, resting head in hands #1 #1​ (ID319)",1.3
+Sleeping #1 #1​ (ID320),0.95
+Standing quietly #1 #1​ (ID321),1.3
+Standing #1 #1​ (ID322),1.5
+Standing watching television #1 #1​ (ID323),1.3
+"Reclining, writing #1 #1​ (ID324)",1.5
+"Reclining, talking or talking on phone #1 #1​ (ID325)",1.3
+"Reclining, reading #1 #1​ (ID326)",1.3
+Meditating #1 #1​ (ID327),1.0
+"Carrying, loading or stacking wood, loading/unloading or carrying lumber, light-to- moderate effort #1 #1​ (ID328)",4.1
+"Carrying, loading or stacking wood, loading/unloading or carrying lumber, moderate effort #1 #1​ (ID329)",5.5
+"Chopping wood, splitting logs, moderate effort #1 #1​ (ID330)",4.5
+"Chopping wood, splitting logs, vigorous effort #1 #1​ (ID331)",6.5
+"Clearing light brush, thinning garden, moderate effort #1 #1​ (ID332)",3.5
+"Clearing land, haul brush, undergrowth, or ground, vigorous effort #1 #1​ (ID333)",6.3
+"Digging sandbox, shoveling sand #1 #1​ (ID334)",5.0
+"Digging, spading, filling garden, composting, light-to-moderate effort #1 #1​ (ID335)",3.5
+"Digging, spading, filling garden, composting #1 #1​ (ID336)",5.0
+"Digging, spading, filling garden, composting, vigorous effort #1 #1​ (ID337)",7.3
+Driving tractor #1 #1​ (ID338),2.8
+"Felling trees, large size #1 #1​ (ID339)",8.3
+"Felling trees, small-medium size #1 #1​ (ID340)",5.3
+"Gardening with heavy power tools, using chain saw, tilling a garden #1 #1​ (ID341)",5.8
+"gardening, general #1 #1​ (ID342)",2.0
+"Irrigation channels, opening and closing ports #1 #1​ (ID343)",4.0
+Laying crushed rock or gravel #1 #1​ (ID344),6.3
+Laying sod #1 #1​ (ID345),5.0
+"Mowing lawn, general, walking, moderate effort #1 #1​ (ID346)",5.5
+"Mowing lawn, riding mower #1 #1​ (ID347)",2.5
+"Mowing lawn, hand mower, vigorous effort #1 #1​ (ID348)",6.0
+"Mowing lawn, walk, power mower,  moderate or vigorous effort #1 #1​ (ID349)",5.0
+"Mowing lawn, power mower, light or moderate effort #1 #1​ (ID350)",4.5
+"Operating snow blower, walking #1 #1​ (ID351)",2.5
+"Planting, potting, transplanting seedlings or plants, light effort #1 #1​ (ID352)",2.6
+"Planting seedlings, shrubs, stooping, moderate effort #1 #1​ (ID353)",4.3
+"Planting crops or garden, stooping, moderate effort #1 #1​ (ID354)",4.3
+Planting trees #1 #1​ (ID355),4.5
+"Raking lawn or leaves, moderate effort #1 #1​ (ID356)",4.0
+Raking lawn #1 #1​ (ID357),4.0
+Raking roof with snow rake #1 #1​ (ID358),4.0
+Riding snow blower #1 #1​ (ID359),3.0
+"Sacking grass, leaves #1 #1​ (ID360)",4.0
+Shoveling dirt or mud #1 #1​ (ID361),5.5
+"Shoveling snow, by hand, moderate effort #1 #1​ (ID362)",5.3
+"Shoveling snow, by hand #1 #1​ (ID363)",6.0
+"Shoveling snow, by hand, vigorous effort #1 #1​ (ID364)",7.5
+"Trimming shrubs or trees, manual cutter #1 #1​ (ID365)",3.8
+"Trimming shrubs or trees, power cutter, using leaf blower, edger, moderate effort #1 #1​ (ID366)",3.3
+"Walking, applying fertilizer or seeding a lawn, push applicator #1 #1​ (ID367)",3.0
+"Watering lawn or garden, standing or walking #1 #1​ (ID368)",4.0
+"Weeding, cultivating garden, light-to-moderate effort #1 #1​ (ID369)",3.8
+"Weeding, cultivating garden, moderate effort #1 #1​ (ID370)",4.5
+"Weeding, cultivating garden, using hoe moderate-to-vigorous effort #1 #1​ (ID371)",5.0
+"Gardening, general, moderate effort #1 #1​ (ID372)",3.8
+"Picking fruit or coffee from trees, moderate effort #1 #1​ (ID373)",3.5
+"Harvesting Produce, Picking fruit off trees, gleaning fruits, picking fruits/vegetables, climbing ladder to pick fruit, vigorous effort #1 #1​ (ID374)",4.5
+"Implied walking/standing - picking up yard, light, picking flowers or vegetables #1 #1​ (ID375)",3.0
+"Walking, gathering gardening tools #1 #1​ (ID376)",3.0
+"Wheel barrow, pushing garden cart or wheelbarrow, general #1 #1​ (ID377)",4.8
+"Wheel barrow, pushing large garden cart or heavy wheelbarrow up to 150kg #1 #1​ (ID378)",6.0
+"Yardwork, general, light effort #1 #1​ (ID379)",2.3
+"Yardwork, general, moderate effort #1 #1​ (ID380)",4.0
+"Yardwork, general, vigorous effort #1 #1​ (ID381)",6.0
+"Board game playing, sitting #1 #1​ (ID382)",1.3
+"Casino gambling, standing #1 #1​ (ID383)",2.5
+"Card playing, sitting #1 #1​ (ID384)",1.5
+"Chess game, sitting #1 #1​ (ID385)",1.5
+"Copying or filing documents, standing #1 #1​ (ID386)",1.5
+"Drawing, writing, painting, standing #1 #1​ (ID387)",1.8
+"Laughter, sitting #1 #1​ (ID388)",1.0
+"Sitting: reading, book, newspaper, magazine #1 #1​ (ID389)",1.0
+"sitting, typing or reading on a balance chair/stability ball #1 #1​ (ID390)",1.8
+"watching tv, stepping during commercial breaks #1 #1​ (ID391)",2.0
+"Sitting: writing, desk work, typing #1 #1​ (ID392)",1.3
+"Standing:  talking in person, on the phone, computer, text messaging, writing #1 #1​ (ID393)",1.3
+"Sitting: talking in person, on the phone, computer, or  text messaging, light effort #1 #1​ (ID394)",1.3
+"Sitting - studying, general, including reading and/or writing, light effort #1 #1​ (ID395)",1.5
+"Sitting - in class, general, including note-taking or class discussion #1 #1​ (ID396)",1.8
+Standing - reading #1 #1​ (ID397),1.0
+Standing: miscellaneous #1 #1​ (ID398),2.5
+"Sitting: arts and crafts, carving wood, weaving, spinning wool, light effort #1 #1​ (ID399)",1.8
+"Sitting: arts and crafts, carving wood, weaving, spinning wool, moderate effort #1 #1​ (ID400)",3.0
+"Standing: arts and crafts, sand painting, carving, weaving, light effort #1 #1​ (ID401)",2.5
+"Standing - arts and crafts, sand painting, carving, weaving, moderate effort #1 #1​ (ID402)",3.3
+"Standing - arts and crafts, sand painting, carving, weaving, vigorous effort #1 #1​ (ID403)",3.5
+"Retreat/family reunion activities involving sitting, relaxing, talking, eating #1 #1​ (ID404)",1.5
+Retreat/family reunion activities involving playing games with children #1 #1​ (ID405),2.5
+Touring/traveling/vacation involving  riding in vehicle #1 #1​ (ID406),2.0
+Touring/traveling/vacation involving walking #1 #1​ (ID407),3.5
+"Camping involving standing, walking, sitting, light-to-moderate effort #1 #1​ (ID408)",2.5
+"Sitting at a sporting event, spectator #1 #1​ (ID409)",1.5
+"Accordion, sitting #1 #1​ (ID410)",1.8
+"Cello, sitting #1 #1​ (ID411)",2.3
+"Conducting orchestra, standing #1 #1​ (ID412)",2.3
+"Double bass, standing #1 #1​ (ID413)",2.5
+"Drums, sitting #1 #1​ (ID414)",3.8
+Drumming #1 #1​ (ID415),3.0
+"Drumming, concert/live show #1 #1​ (ID416)",8.3
+"Flute, sitting #1 #1​ (ID417)",2.0
+"Horn, standing #1 #1​ (ID418)",1.8
+"Piano, sitting #1 #1​ (ID419)",2.3
+"Playing musical instruments, general #1 #1​ (ID420)",2.0
+"Organ, sitting #1 #1​ (ID421)",2.0
+"Trombone, standing #1 #1​ (ID422)",3.5
+"Trumpet, standing #1 #1​ (ID423)",2.5
+"Violin, sitting #1 #1​ (ID424)",2.5
+"Woodwind instruments, sitting #1 #1​ (ID425)",1.8
+"Brass instruments, sitting #1 #1​ (ID426)",1.8
+"Guitar, classical, folk, sitting #1 #1​ (ID427)",2.0
+"Guitar, rock and roll band, standing #1 #1​ (ID428)",3.0
+"Marching band, baton twirling, walking, moderate pace, general #1 #1​ (ID429)",4.0
+"Marching band, playing an instrument, walking, brisk pace, general #1 #1​ (ID430)",5.5
+"Marching band, drum major, walking #1 #1​ (ID431)",3.5
+"Active workstation, Pedal desk, balance chair/ball, General, light effort #1 #1​ (ID432)",2.0
+"Active workstation, Pedal desk #1 #1​ (ID433)",3.5
+"Active workstation, Pedal desk #2 #1​ (ID434)",5.3
+"Active workstation, treadmill desk, walking slowly 1.0 mph or less #1 #1​ (ID435)",2.0
+"Active workstation, treadmill desk, walking  1.0 - 2.0 mph #1 #1​ (ID436)",2.8
+Airline flight attendant #1 #1​ (ID437),3.0
+Apple Harvesting #1 #1​ (ID438),4.8
+"Bakery, general, moderate effort #1 #1​ (ID439)",4.0
+"Bakery, light effort #1 #1​ (ID440)",2.0
+Bookbinding #1 #1​ (ID441),2.3
+"Building road, driving heavy machinery #1 #1​ (ID442)",6.0
+"Building road, directing traffic, standing #1 #1​ (ID443)",2.0
+"Carpentry, general, light effort #1 #1​ (ID444)",2.5
+"Carpentry, general, moderate effort #1 #1​ (ID445)",4.3
+"Carpentry, general, heavy or vigorous effort #1 #1​ (ID446)",7.0
+Carrying heavy loads #1 #1​ (ID447),8.0
+"Carrying moderate loads up stairs, moving  boxes, 25-49 lbs #1 #1​ (ID448)",8.0
+"Chambermaid, hotel housekeeper, making bed,  cleaning bathroom, pushing cart #1 #1​ (ID449)",4.0
+"Cleaning, vacuuming commercial space #1 #1​ (ID450)",4.3
+"Coal mining, drilling coal, rock #1 #1​ (ID451)",5.3
+"Coal mining, erecting supports #1 #1​ (ID452)",5.0
+"Coal mining, general #1 #1​ (ID453)",5.5
+"Coal mining, shoveling coal, by hand #1 #1​ (ID454)",6.3
+"Cook, chef #1 #1​ (ID455)",2.5
+"Construction, outside, remodeling, new  structures #1 #1​ (ID456)",4.0
+"Construction, rebar, bar bending/fixing #1 #1​ (ID457)",2.3
+"Custodial work, light effort #1 #1​ (ID458)",2.3
+"Custodial work, moderate effort #1 #1​ (ID459)",3.8
+Electrical work #1 #1​ (ID460),3.3
+Engineer #1 #1​ (ID461),1.8
+"Farming, vigorous effort #1 #1​ (ID462)",7.8
+"Farming, moderate effort #1 #1​ (ID463)",4.8
+"Farming, light effort, #1 #1​ (ID464)",2.0
+"Farming, driving tasks #1 #1​ (ID465)",2.8
+"Farming, feeding small animals #1 #1​ (ID466)",3.5
+"Farming, feeding cattle, horses #1 #1​ (ID467)",4.3
+"Farming, hauling water for animals, fetching  water from well or stream #1 #1​ (ID468)",4.3
+"Farming, taking care of animals #1 #1​ (ID469)",4.5
+"Farming, rice, planting, grain milling activities #1 #1​ (ID470)",3.8
+"Farming, milking by hand, cleaning pails,  moderate effort #1 #1​ (ID471)",3.5
+"Farming, milking by machine, light effort #1 #1​ (ID472)",1.3
+"Farming, milking Cows, full milking process, modern milking parlor with milking machines #1 #1​ (ID473)",3.0
+"Fire fighter, general #1 #1​ (ID474)",8.0
+"Fire fighter, rescue victim, automobile  accident, using pike pole #1 #1​ (ID475)",6.8
+"Fire fighter, raising and climbing ladder with  full gear, simulated fire suppression #1 #1​ (ID476)",8.0
+"Fire fighter, hauling hoses on ground,  carrying/hoisting equipment, breaking down  walls etc., wearing full gear #1 #1​ (ID477)",9.0
+"Fishing, commercial, light effort #1 #1​ (ID478)",3.5
+"Fishing, commercial, moderate effort #1 #1​ (ID479)",5.0
+"Forestry, ax chopping, very fast, 1.25 kg axe,  51 blows/min, extremely vigorous effort #1 #1​ (ID480)",17.5
+"Forestry, ax chopping, slow, 1.25 kg axe, 19  blows/min, moderate effort #1 #1​ (ID481)",5.0
+"Forestry, ax chopping, fast, 1.25 kg axe, 35  blows/min, vigorous effort #1 #1​ (ID482)",8.0
+"Forestry, moderate effort #1 #1​ (ID483)",5.0
+"Forestry, vigorous effort #1 #1​ (ID484)",8.5
+Furriery #1 #1​ (ID485),4.8
+"Garbage collector, walking, dumping bins into truck, street cleaning #1 #1​ (ID486)",3.8
+Hairstylist #1 #1​ (ID487),1.8
+"Horse grooming, including feeding, cleaning  stalls, bathing, brushing, clipping, longeing and  exercising horses. #1 #1​ (ID488)",7.3
+"Horse, feeding, watering, cleaning stalls, implied walking and lifting loads #1 #1​ (ID489)",4.3
+"Horseback riding, working, cutting cows #1 #1​ (ID490)",4.5
+"Horse racing, galloping, cantor #1 #1​ (ID491)",7.8
+"Horse racing, Jockey, trotting #1 #1​ (ID492)",6.3
+"Horse racing, Jockey, walking #1 #1​ (ID493)",2.3
+Kitchen maid #1 #1​ (ID494),3.0
+"Lawn keeper, yardwork, general #1 #1​ (ID495)",4.0
+"Lawn keeper, weeding, gas powered #1 #1​ (ID496)",3.0
+Laundry worker #1 #1​ (ID497),3.3
+Locksmith #1 #1​ (ID498),3.0
+Machine tooling #1 #1​ (ID499),3.0
+"Machine tooling, operating punch press,  moderate effort #1 #1​ (ID500)",5.0
+"Manager, property #1 #1​ (ID501)",1.8
+"Manual or unskilled labor, general, light effort #1 #1​ (ID502)",2.8
+"Manual or unskilled labor, general, moderate effort #1 #1​ (ID503)",4.5
+"Manual or unskilled labor, general, vigorous effort #1 #1​ (ID504)",6.5
+"Masonary, concrete, moderate effort #1 #1​ (ID505)",4.3
+"Masonry, concrete, light effort #1 #1​ (ID506)",2.5
+"Massage therapist, standing #1 #1​ (ID507)",5.5
+"Mail carrier, walking to deliver mail #1 #1​ (ID508)",2.3
+"Mail delivery, motorbike #1 #1​ (ID509)",1.5
+"Mail delivery, Electronically Assisted Bicycle #1 #1​ (ID510)",3.5
+"Moving, carrying or pushing heavy objects, 75  lbs or more, only active time #1 #1​ (ID511)",7.5
+"Mining, general services, drilling, mining support jobs #1 #1​ (ID512)",8.5
+"Skindiving or SCUBA diving as a frogman,  Navy Seal #1 #1​ (ID513)",12.0
+"Operating heavy duty equipment, automated,  not driving #1 #1​ (ID514)",2.5
+"Orange grove work, picking fruit #1 #1​ (ID515)",3.5
+"Painting, house, furniture, moderate effort #1 #1​ (ID516)",3.3
+Plumbing activities #1 #1​ (ID517),3.0
+"Printing, paper industry worker, standing #1 #1​ (ID518)",2.0
+"Police Officer, Walking #1 #1​ (ID519)",3.8
+"Police, directing traffic, standing #1 #1​ (ID520)",2.5
+"Police, driving a squad car, sitting #1 #1​ (ID521)",2.0
+"Police, riding in a squad car, sitting #1 #1​ (ID522)",1.3
+"Police, making an arrest, standing #1 #1​ (ID523)",4.0
+"Counter terrorism maneuvers, clearing building #1 #1​ (ID524)",9.0
+"Shoe repair, general #1 #1​ (ID525)",2.0
+"Shoveling, digging ditches #1 #1​ (ID526)",7.3
+"Shoveling, more than 16 lbs/minute, deep  digging, vigorous effort #1 #1​ (ID527)",8.8
+"Shoveling, less than 10 lbs/minute, moderate  effort #1 #1​ (ID528)",5.0
+"Shoveling, 10 to 15 lbs/minute, vigorous effort #1 #1​ (ID529)",6.5
+"Sitting tasks, light effort #1 #1​ (ID530)",1.5
+"Sitting, computer work #1 #1​ (ID531)",1.3
+"Standing workstation, typing, computer work #1 #1​ (ID532)",1.3
+"Sitting meetings, light effort, general, and/or with talking involved #1 #1​ (ID533)",1.3
+"Sitting tasks, moderate effort #1 #1​ (ID534)",2.5
+"Sitting, teaching stretching or yoga, or light  effort exercise classes #1 #1​ (ID535)",2.8
+"Standing tasks, light effort #1 #1​ (ID536)",1.8
+"Standing, light/moderate effort #1 #1​ (ID537)",3.3
+"Standing, moderate effort, lifting items  continuously, 10 – 20 lbs, with limited walking  or resting #1 #1​ (ID538)",4.5
+"Standing, moderate effort, intermittent lifting  50 lbs, hitch or twisting ropes #1 #1​ (ID539)",3.8
+"Standing, moderate/heavy tasks #1 #1​ (ID540)",4.5
+"Patient care, healthcare activites #1 #1​ (ID541)",2.3
+"Patient care, room cleaning/preperation #1 #1​ (ID542)",3.5
+"Steel mill, moderate effort #1 #1​ (ID543)",5.3
+"Steel mill, vigorous effort #1 #1​ (ID544)",8.3
+"Tailoring, cutting fabric #1 #1​ (ID545)",2.3
+"Tailoring, general #1 #1​ (ID546)",2.5
+"Tailoring, hand sewing #1 #1​ (ID547)",1.8
+"Tailoring, machine sewing #1 #1​ (ID548)",2.5
+"Tailoring, pressing #1 #1​ (ID549)",3.5
+"Tailoring, weaving, light effort #1 #1​ (ID550)",2.0
+"Tailoring, weaving, moderate effort #1 #1​ (ID551)",4.0
+"Truck driving, loading and unloading truck,  tying down load, standing, walking and  carrying heavy loads #1 #1​ (ID552)",6.5
+"Truck driving, delivery truck, taxi, shuttlebus,  school bus #1 #1​ (ID553)",2.0
+"Typing, electric, manual or computer #1 #1​ (ID554)",1.3
+Using heavy power tools such as pneumatic  tools #1 #1​ (ID555),6.3
+Using heavy tools #1 #1​ (ID556),7.8
+"Walking on job, less than 2.0 mph, very slow  speed, in office or lab area #1 #1​ (ID557)",2.0
+"Walking on job, 2.8 to 3.4 mph, in office, moderate  speed, not carrying anything #1 #1​ (ID558)",3.8
+"Walking on job, 3.5 to 3.9 mph, in office, brisk speed,  not carrying anything #1 #1​ (ID559)",4.8
+"Walking on job, 2.5 mph, slow speed, carrying  light objects less than 25 lbs #1 #1​ (ID560)",3.5
+"Walking, gathering things at work, ready to  leave #1 #1​ (ID561)",3.0
+"Walking, 2.5 mph, slow speed, carrying heavy  objects more than 25 lbs #1 #1​ (ID562)",3.8
+"Walking, 3.0 mph, moderately and carrying  light objects less than 25 lbs #1 #1​ (ID563)",4.5
+"Walking, pushing a wheelchair #1 #1​ (ID564)",3.8
+"Walking, 3.5 mph, briskly and carrying objects  less than 25 lbs #1 #1​ (ID565)",4.5
+"Walking or walk downstairs or standing,  carrying objects about 25 to 49 lbs #1 #1​ (ID566)",4.0
+"Walking or walk downstairs or standing,  carrying objects about 50 to 74 lbs #1 #1​ (ID567)",5.5
+"Walking or walk downstairs or standing,  carrying objects about 75 to 99 lbs #1 #1​ (ID568)",7.0
+"Walking or walk downstairs or standing,  carrying objects about 100 lbs or more #1 #1​ (ID569)",7.3
+"Warehouse/Shipping Center, Loading/Unloading boxes #1 #1​ (ID570)",2.3
+"Warehouse/Shipping Center, Moving boxes #1 #1​ (ID571)",4.3
+"Working in scene shop, theater actor, backstage  employee #1 #1​ (ID572)",3.0
+"Soldiers, military marching, unloaded 1.5-2.5 mph #1 #1​ (ID573)",3.5
+"Soldiers, military marching, 1.5-2.5 mph, 10 to 30 kg load #1 #1​ (ID574)",4.0
+"Airborne Shuffle, 2.5 to 3.5 mph, 20-30 kg load #1 #1​ (ID575)",5.0
+"Soldiers, military loaded marching, varying terrain, 25-40 kg load #1 #1​ (ID576)",6.3
+"Soldiers, walking, 2.8 mph, 5% grade, up to 21.5 kg load #1 #1​ (ID577)",6.0
+"Soldiers, walking,  2.8 mph, 10% grade, up to 21.5 kg load #1 #1​ (ID578)",8.5
+"Soldiers, walking,  2.8 mph, 15% grade, up to 21.5 kg load #1 #1​ (ID579)",11.0
+"Military activities, arterial field preparation, digging defensive positions #1 #1​ (ID580)",6.0
+Jog/walk combination #1 #1​ (ID581),6.0
+"Jogging, general, self-selected pace #1 #1​ (ID582)",7.5
+"Jogging, in place #1 #1​ (ID583)",4.8
+Jogging 2.6 to 3.7 mph #1 #1​ (ID584),3.3
+Jogging on a mini-tramp #1 #1​ (ID585),4.5
+"Running, 4 to 4.2 mph #1 #1​ (ID586)",6.5
+Running 4.3 to 4.8 mph #1 #1​ (ID587),7.8
+"Running, 5.0 to 5.2 mph #1 #1​ (ID588)",8.5
+"Running, 5.5 -5.8 mph #1 #1​ (ID589)",9.0
+"Running, 6-6.3 mph #1 #1​ (ID590)",9.3
+"Running, 6.7 mph #1 #1​ (ID591)",10.5
+"Running, 7 mph #1 #1​ (ID592)",11.0
+"Running, 7.5 mph #1 #1​ (ID593)",11.8
+"Running, 8 mph #1 #1​ (ID594)",12.0
+"Running, 8.6 mph #1 #1​ (ID595)",12.5
+"Running, 9 mph #1 #1​ (ID596)",13.0
+"Running, 9.3 to 9.6 mph #1 #1​ (ID597)",14.8
+"Running, 10 mph #1 #1​ (ID598)",14.8
+"Running, 11 mph #1 #1​ (ID599)",16.8
+"Running, 12 mph #1 #1​ (ID600)",18.5
+"Running, 13 mph #1 #1​ (ID601)",19.8
+"Running, 14 mph #1 #1​ (ID602)",23.0
+"Running, cross country #1 #1​ (ID603)",9.3
+"Running, self-selected pace #1 #1​ (ID604)",10.5
+Running #1 #1​ (ID605),8.0
+"Running, stairs, up #1 #1​ (ID606)",15.0
+"Running, on a track, team practice #1 #1​ (ID607)",10.0
+"Running, on track, 500-1500m, competitive #1 #1​ (ID608)",18.0
+"Running, on track, 2000-3000m, competitive #1 #1​ (ID609)",19.3
+"Running, training, pushing a wheelchair or baby carrier #1 #1​ (ID610)",8.0
+"Running, marathon #1 #1​ (ID611)",13.3
+"Running uphill, 4.5mph, 5% incline #1 #1​ (ID612)",10.3
+"Running uphill, 6.0 mph, 5% incline #1 #1​ (ID613)",13.3
+"Running uphill, 7.0 mph, 5% incline #1 #1​ (ID614)",15.5
+"Running uphill, 5.0 to 5.9 mph, 15% incline #1 #1​ (ID615)",17.5
+"Running uphill, 0.6 to 0.79 mph, 30% incline #1 #1​ (ID616)",8.8
+"Running uphill, 0.8 to 0.99 mph, 30% incline #1 #1​ (ID617)",10.3
+"Running uphill, 1.0 to 1.19 mph, 30% incline #1 #1​ (ID618)",11.8
+"Running uphill, 1.2 to 1.39 mph, 30-40% incline #1 #1​ (ID619)",13.5
+"Running uphill, 1.4 to 1.59 mph, 30% incline #1 #1​ (ID620)",14.8
+"Running uphill, >1.6mph, 10-30% incline #1 #1​ (ID621)",16.3
+"Running, hilly terrain, ±100m change in elevation #1 #1​ (ID622)",16.0
+"Running downhill, 5.0 to 5.9 mph, -10% to -15% #1 #1​ (ID623)",5.8
+"Running downhill, 6.0 to 6.9 mph, -10% to -15% #1 #1​ (ID624)",7.5
+"Running downhill, 7.0 to 8.9 mph, -10% to -15% #1 #1​ (ID625)",9.0
+"Running downhill, 6.0 to 7.9 mph, -3% to -9% #1 #1​ (ID626)",9.3
+"Running downhill, 8.0 to 10.5 mph, -3% to -9% #1 #1​ (ID627)",13.8
+"Running/jogging, curved treadmill, 3.0 to 3.9 mph #1 #1​ (ID628)",5.3
+"Running/jogging, curved treadmill, 4.0 to 4.9 mph #1 #1​ (ID629)",6.5
+"Running curved treadmill, 5.0 to 5.9 mph #1 #1​ (ID630)",11.0
+"Running curved treadmill, 7.0 to 7.9 mph #1 #1​ (ID631)",12.0
+"Running curved treadmill, 8.0 to 8.9 mph #1 #1​ (ID632)",14.0
+"Running curved treadmill, 9.0 to 9.9 mph #1 #1​ (ID633)",16.8
+"Running, 5.0 - 5.9 mph, 1.0 to 3.0 kg backpack #1 #1​ (ID634)",8.5
+"Running, 6.0 - 6.9 mph, 1.0 to 3.0 kg backpack #1 #1​ (ID635)",9.5
+"Running, 7.0 - 7.9 mph, 1.0 to 3.0 kg backpack #1 #1​ (ID636)",9.8
+"Running, 8.0 - 8.9 mph, 1.0 to 3.0 kg backpack #1 #1​ (ID637)",12.0
+"Running, barefoot, 3.5-5.9 mph #1 #1​ (ID638)",7.8
+"Running, barefoot, 6.0-7.9 mph #1 #1​ (ID639)",12.0
+"Running, barefoot, 8.0-8.9 mph #1 #1​ (ID640)",13.5
+"Running, jogging stroller, indoors, 5 mph #1 #1​ (ID641)",8.0
+"Running, jogging stroller, indoors, 6 mph #1 #1​ (ID642)",9.0
+"Running, jogging stroller, outdoors, 5 mph #1 #1​ (ID643)",10.0
+"Running, jogging stroller, outdoors, 6 mph #1 #1​ (ID644)",11.5
+"Skipping, 5.5-6.0 mph #1 #1​ (ID645)",11.5
+"Triathlon, Running #1 #1​ (ID646)",13.0
+"Getting ready for bed, general, standing #1 #1​ (ID647)",2.3
+"Sitting on toilet, eliminating while standing or  squatting #1 #1​ (ID648)",2.3
+"Bathing, sitting #1 #1​ (ID649)",1.5
+"Dressing, undressing, standing or sitting #1 #1​ (ID650)",2.8
+"Eating, sitting #1 #1​ (ID651)",1.5
+"Talking and eating or eating only, standing #1 #1​ (ID652)",2.0
+"Taking medication, sitting or standing #1 #1​ (ID653)",1.5
+"Grooming, washing hands, shaving, brushing  teeth, putting on make-up, sitting or standing #1 #1​ (ID654)",2.0
+"Hairstyling, standing #1 #1​ (ID655)",2.5
+"Having hair or nails done by someone else,  sitting #1 #1​ (ID656)",1.3
+"Showering, toweling off, standing #1 #1​ (ID657)",2.0
+"Active, vigorous effort #1 #1​ (ID658)",5.8
+"General, moderate effort #1 #1​ (ID659)",3.0
+"Passive, light effort, kissing, hugging #1 #1​ (ID660)",1.8
+"Alaska Native Games, Eskimo Olympics, general #1 #1​ (ID661)",5.5
+Archery #1 #1​ (ID662),4.3
+"Badminton, competitive #1 #1​ (ID663)",7.0
+"Badminton, competitive, match play #1 #1​ (ID664)",9.0
+"Badminton, social singles and doubles, general #1 #1​ (ID665)",5.5
+"Basketball, game #1 #1​ (ID666)",8.0
+"Basketball, non-game, general #1 #1​ (ID667)",6.0
+"Basketball, general #1 #1​ (ID668)",7.5
+"Basketball, officiating #1 #1​ (ID669)",7.0
+"Basketball, officiating #2 #1​ (ID670)",5.8
+"Basketball, shooting baskets #1 #1​ (ID671)",5.0
+"Basketball, drills, practice #1 #1​ (ID672)",9.3
+Billiards #1 #1​ (ID673),2.5
+Bowling #1 #1​ (ID674),3.0
+"Bowling, indoor, bowling alley #1 #1​ (ID675)",3.8
+"Boxing, in ring, general #1 #1​ (ID676)",12.3
+"Boxing, punching bag #1 #1​ (ID677)",5.8
+"Boxing, punching bag, 60 b/min #1 #1​ (ID678)",7.0
+"Boxing, punching bag, 120 b/min #1 #1​ (ID679)",8.5
+"Boxing, punching bag, 180 b/min #1 #1​ (ID680)",10.8
+"Boxing, sparring #1 #1​ (ID681)",7.8
+"Boxing, simulated boxing round, exercise #1 #1​ (ID682)",9.3
+Broomball #1 #1​ (ID683),7.0
+"Children’s games, adults playing #1 #1​ (ID684)",5.8
+"Cheerleading, gymnastic moves, competitive #1 #1​ (ID685)",6.0
+"Coaching, football, soccer, basketball, baseball, swimming, etc. #1 #1​ (ID686)",4.0
+"Coaching, actively playing sport with players #1 #1​ (ID687)",8.0
+"Cricket, batting, bowling, fielding #1 #1​ (ID688)",4.8
+Croquet #1 #1​ (ID689),3.3
+Curling #1 #1​ (ID690),4.0
+"Darts, wall or lawn #1 #1​ (ID691)",2.5
+"Drag racing, pushing or driving a car #1 #1​ (ID692)",6.0
+"Auto racing, open wheel #1 #1​ (ID693)",8.5
+Futsal #1 #1​ (ID694),7.8
+"Fencing, general #1 #1​ (ID695)",6.0
+"Fencing, epee, competitive #1 #1​ (ID696)",9.8
+Floorball #1 #1​ (ID697),10.5
+"Football, competitive #1 #1​ (ID698)",8.0
+"Football, touch, flag, general #1 #1​ (ID699)",8.0
+"Football, touch, flag, light effort #1 #1​ (ID700)",4.0
+"Football or baseball, playing catch #1 #1​ (ID701)",2.5
+"Frisbee playing, general #1 #1​ (ID702)",3.0
+"Frisbee, ultimate #1 #1​ (ID703)",8.0
+Frisbee golf #1 #1​ (ID704),3.8
+"Golf, general #1 #1​ (ID705)",4.5
+"Golf, walking, carrying clubs #1 #1​ (ID706)",4.3
+"Golf, miniature, driving range #1 #1​ (ID707)",3.5
+"Golf, walking, pulling clubs #1 #1​ (ID708)",4.5
+"Golf, using power cart #1 #1​ (ID709)",3.5
+"Gymnastics, general #1 #1​ (ID710)",3.8
+Hacky sack #1 #1​ (ID711),4.0
+"Handball, general #1 #1​ (ID712)",12.0
+"Handball, team #1 #1​ (ID713)",8.0
+"High ropes course, multiple elements #1 #1​ (ID714)",4.0
+Hang gliding #1 #1​ (ID715),3.5
+"Hockey, field #1 #1​ (ID716)",7.8
+"Hockey, ice, general #1 #1​ (ID717)",8.0
+"Hockey, ice, competitive #1 #1​ (ID718)",10.0
+"Horseback riding, general #1 #1​ (ID719)",5.5
+"Horse grooming, maintenance, saddling tasks #1 #1​ (ID720)",4.5
+"Horseback riding, trotting #1 #1​ (ID721)",5.8
+"Horseback riding, canter or gallop #1 #1​ (ID722)",7.3
+"Horseback riding, walking #1 #1​ (ID723)",3.8
+"Horseback riding, jumping #1 #1​ (ID724)",9.0
+"Horseback riding, reining #1 #1​ (ID725)",6.0
+"Horseback riding, simulator #1 #1​ (ID726)",2.1
+"Horse cart, driving, standing or sitting #1 #1​ (ID727)",1.8
+"Horseshoe pitching, quoits #1 #1​ (ID728)",3.0
+Jai alai #1 #1​ (ID729),12.0
+"Martial Arts, different types, slower pace, novice performers, practice #1 #1​ (ID730)",5.3
+"Martial Arts, different types, moderate pace #1 #1​ (ID731)",10.3
+"Taekwondo, combat simulation #1 #1​ (ID732)",14.3
+Judo #1 #1​ (ID733),11.3
+Juggling #1 #1​ (ID734),4.0
+"Kendu, kihon-keiko style, moderate intensity #1 #1​ (ID735)",6.5
+"Kendu, kirikaeshi style, high intensity #1 #1​ (ID736)",9.6
+"Kendu, kakari keiko style, very high intensity #1 #1​ (ID737)",11.3
+Kickball #1 #1​ (ID738),7.0
+Kung Fu Gymnastics #1 #1​ (ID739),5.5
+Kickboxing #1 #1​ (ID740),7.3
+Lacrosse #1 #1​ (ID741),8.0
+"Lawn bowling, bocce ball, outdoor #1 #1​ (ID742)",3.3
+"Motocross, off-road motor sports, all-terrain vehicle, general #1 #1​ (ID743)",4.0
+"Motorcycle racing, Supormoto racing #1 #1​ (ID744)",5.3
+Netball #1 #1​ (ID745),7.0
+Orienteering #1 #1​ (ID746),9.0
+"Paddleball, competitive #1 #1​ (ID747)",10.0
+"Paddleball, casual, general #1 #1​ (ID748)",6.0
+"Paragliding, moderate altitude #1 #1​ (ID749)",1.8
+Prusik climbing #1 #1​ (ID750),6.5
+"Polo, on horseback #1 #1​ (ID751)",8.0
+"Racquetball, competitive #1 #1​ (ID752)",10.0
+"Race Walking, 3.1 m/s #1 #1​ (ID753)",10.3
+"Race Walking, 3.7 m/s #1 #1​ (ID754)",13.8
+"Race Walking, racing speed, 4.0 m/s #1 #1​ (ID755)",15.5
+"Racquetball, general #1 #1​ (ID756)",7.0
+Rock or mountain climbing #1 #1​ (ID757),8.0
+"Rock climbing, free boulder #1 #1​ (ID758)",8.8
+"Rock climbing, ascending rock, high difficulty #1 #1​ (ID759)",7.3
+"Rock climbing, speed climbing, very difficult #1 #1​ (ID760)",10.5
+"Rock climbing, ascending or traversing rock, low-to-moderate difficulty #1 #1​ (ID761)",5.8
+"Rock climbing, treadwall, 4-6 m/min #1 #1​ (ID762)",10.5
+"Rock climbing, treadwall, 7-10 m/min #1 #1​ (ID763)",10.5
+"Rock climbing, rappelling, #1 #1​ (ID764)",5.0
+"Rodeo sports, general, light effort #1 #1​ (ID765)",4.0
+"Rodeo sports, general, moderate effort #1 #1​ (ID766)",5.5
+"Rodeo sports, general, vigorous effort #1 #1​ (ID767)",7.0
+"Rope jumping, fast pace, 120-160 skips/min #1 #1​ (ID768)",12.3
+"Rope jumping, moderate pace, general, 100 to 120 skips/min, 2 foot skip, plain bounce #1 #1​ (ID769)",11.8
+"Rope jumping, slow pace, < 100 skips/min, 2 foot skip, rhythm bounce #1 #1​ (ID770)",8.3
+"Rope jumping, double under or more #1 #1​ (ID771)",10.0
+"Rugby, union, team, competitive #1 #1​ (ID772)",8.3
+"Rugby, touch, non-competitive #1 #1​ (ID773)",6.3
+Shuffleboard #1 #1​ (ID774),3.0
+"Skateboarding, general, moderate effort #1 #1​ (ID775)",5.0
+"Skateboarding, competitive, vigorous effort #1 #1​ (ID776)",6.0
+"Skating, roller #1 #1​ (ID777)",7.0
+"Roller blading, in-line skating, 14.4 km/h #1 #1​ (ID778)",7.5
+"Roller blading, in-line skating, 17.7 km/h #1 #1​ (ID779)",9.8
+"Roller blading, in-line skating, 21.0 to 21.7 km/h #1 #1​ (ID780)",12.3
+"Rollerblading, in-line skating, 24.0 km/h #1 #1​ (ID781)",15.5
+"Skateboard, longboard, 13.3 km/h, slow speed #1 #1​ (ID782)",6.8
+"Skateboard, longboard, 16.2 km/h, typical speed #1 #1​ (ID783)",8.3
+"Skateboard, longboard, 18.4 km/h, fast speed #1 #1​ (ID784)",10.5
+"Skydiving, base-jumping, bungee jumping #1 #1​ (ID785)",3.5
+"Soccer, competitive #1 #1​ (ID786)",9.5
+"Soccer, casual, general #1 #1​ (ID787)",7.0
+Walking football/soccer #1 #1​ (ID788),3.5
+"Softball or baseball, fast or slow pitch, general, moderate effort #1 #1​ (ID789)",5.0
+"Softball, practice #1 #1​ (ID790)",4.0
+"Softball, officiating #1 #1​ (ID791)",4.0
+"Softball, pitching #1 #1​ (ID792)",6.0
+"Sports spectator, very excited, emotional, physically moving #1 #1​ (ID793)",3.3
+Squash #1 #1​ (ID794),12.0
+"Squash, general #1 #1​ (ID795)",7.3
+"Table tennis, ping pong #1 #1​ (ID796)",4.0
+"Tai chi, qi gong, general #1 #1​ (ID797)",3.3
+"Tai chi, qi gong, sitting, light effort #1 #1​ (ID798)",1.5
+"Tai chi chuan, Yang style #1 #1​ (ID799)",6.0
+"Tennis, general, moderate effort #1 #1​ (ID800)",6.8
+"Tennis, general, competitive #1 #1​ (ID801)",8.0
+"Tennis, doubles #1 #1​ (ID802)",6.0
+"Tennis, doubles #2 #1​ (ID803)",4.5
+"Tennis, singles #1 #1​ (ID804)",8.0
+"Tennis, hitting balls, non-game play, moderate effort #1 #1​ (ID805)",5.0
+"Trampoline, recreational #1 #1​ (ID806)",6.3
+"Trampoline, competitive #1 #1​ (ID807)",10.3
+Volleyball #1 #1​ (ID808),4.0
+"Volleyball, competitive, in gymnasium #1 #1​ (ID809)",6.0
+"Volleyball, non-competitive, 6 - 9 member team, general #1 #1​ (ID810)",3.0
+"Volleyball, beach, in sand #1 #1​ (ID811)",8.0
+"Wrestling, competitive #1 #1​ (ID812)",6.0
+"Wallyball, general #1 #1​ (ID813)",7.0
+Track and field #1 #1​ (ID814),4.0
+Track and field #2 #1​ (ID815),6.0
+Track and field #3 #1​ (ID816),10.0
+"Bicycling for transportation, moderate effort #1 #1​ (ID817)",6.8
+"Bicycling for transportation, high effort #1 #1​ (ID818)",9.3
+E-bike #4 #1​ (ID819),6.8
+Automobile or light truck #1 #1​ (ID820),2.0
+Riding in a car or truck #1 #1​ (ID821),1.3
+Riding in a bus or train #1 #1​ (ID822),1.3
+Flying airplane or helicoptor #1 #1​ (ID823),1.8
+"Motor scooter, motorcycle #1 #1​ (ID824)",2.8
+Pulling rickshaw #1 #1​ (ID825),6.3
+Pushing plane in and out of hangar #1 #1​ (ID826),6.0
+"Truck, semi, tractor, ≥1 ton, or bus, driving #1 #1​ (ID827)",2.5
+"Walking for transportation, 2.8-3.2 mph, level, moderate pace, firm surface #1 #1​ (ID828)",3.5
+Backpacking #1 #1​ (ID829),7.0
+"Walking with a day pack, level ground, assumed in the city #1 #1​ (ID830)",3.5
+"Backpacking,  hiking with a daypack, organized walking with daypack #1 #1​ (ID831)",7.8
+Carrying 5 to 14 lb #1 #1​ (ID832),4.0
+Carrying 15 - 155 lb #1 #1​ (ID833),4.5
+Carrying 50 to 150 pound load #1 #1​ (ID834),6.5
+"Carrying ~10 lb child, slow walking #1 #1​ (ID835)",2.3
+"Carrying load upstairs, general #1 #1​ (ID836)",8.3
+"Carrying load, 1 to 15 lb load, upstairs #1 #1​ (ID837)",5.5
+"Carrying load, 16 to 24 lb load, upstairs #1 #1​ (ID838)",6.0
+"Carrying load, 25 to 49 lb load, upstairs #1 #1​ (ID839)",8.0
+"Carrying load, 50 to 74 lb load, upstairs #1 #1​ (ID840)",10.0
+"Carrying load, >74 lb load, upstairs #1 #1​ (ID841)",12.0
+"Loading  and/or unloading a car, implied walking #1 #1​ (ID842)",3.8
+"Climbing hills, no load, 5 to 20% grade, very slow pace #1 #1​ (ID843)",5.0
+"Climbing hills, 15-50 lb load, 1 to 2% grade, slow pace #1 #1​ (ID844)",3.8
+"Climbing hills, no load, 1 to 5% grade, moderate-to-brisk pace #1 #1​ (ID845)",5.3
+"Climbing hills, no load, 6 to 10% grade, moderate-to-brisk pace #1 #1​ (ID846)",7.0
+"Climbing hills, no load, 11 to 20% grade, slow-to-moderate pace #1 #1​ (ID847)",8.8
+"Climbing hills, no load, 4.0 to 5.0 mph, 3 to 5% grade, very fast pace #1 #1​ (ID848)",10.0
+"Climbing hills, no load, steep grade #1 #1​ (ID849)",8.5
+"Climbing hills, no load, very steep grade #1 #1​ (ID850)",15.5
+"Climbing hills, no load, steep grade #2 #1​ (ID851)",16.3
+"Climbing hills, 10 to 20 lb load, 5 to 10% grade, moderate #1 #1​ (ID852)",6.5
+"Climbing hills, 21 to 40 lb load, 3 to 10% grade, moderate-to-brisk pace #1 #1​ (ID853)",7.5
+"Climbing hills, 20+ pound load, 5 to 20% grade, moderate to brisk pace #1 #1​ (ID854)",10.0
+Descending stairs #1 #1​ (ID855),3.5
+"Hauling water, head hauling, walking on flat surface #1 #1​ (ID856)",4.5
+"Hiking, cross country #1 #1​ (ID857)",6.0
+"Hiking slowly or ambling through fields and hillsides, no load #1 #1​ (ID858)",3.8
+"Hiking or walking at a normal pace through fields and hillsides, no load #1 #1​ (ID859)",5.3
+"Bird watching, walking and stopping #1 #1​ (ID860)",2.5
+"Marching, moderate speed, military, no pack #1 #1​ (ID861)",4.5
+"Marching rapidly, military, no pack #1 #1​ (ID862)",8.0
+"Pushing or pulling stroller with child or walking with children, 2.5 to 3.1 mph #1 #1​ (ID863)",3.8
+"Pushing a wheelchair, non-occupational #1 #1​ (ID864)",3.8
+Race walking #1 #1​ (ID865),6.5
+"Stair climbing, using or climbing up ladder #1 #1​ (ID866)",8.0
+"Stair climbing, general #1 #1​ (ID867)",6.8
+"Stair climbing, slow pace #1 #1​ (ID868)",4.5
+"Stair climbing, fast pace, one step at a time #1 #1​ (ID869)",9.3
+"Stair climbing, two steps at a time #1 #1​ (ID870)",7.5
+"Stair climbing, ascending and descending stairs #1 #1​ (ID871)",7.5
+"Using crutches, level ground, general #1 #1​ (ID872)",4.5
+"Using crutches, fast pace #1 #1​ (ID873)",7.0
+Using medical knee scooter #1 #1​ (ID874),4.3
+"Walking, household #1 #1​ (ID875)",2.3
+"Walking, less than 2.0 mph, level, strolling, very slow #1 #1​ (ID876)",2.3
+"Walking, 2.0 to 2.4 mph, level, slow pace, firm surface #1 #1​ (ID877)",2.8
+Walking for pleasure #1 #1​ (ID878),3.5
+"Walking from house to car or bus, from car or bus to go places, from car or bus to and from the worksite #1 #1​ (ID879)",2.5
+Walking to neighbor’s house or family’s house for social reasons #1 #1​ (ID880),2.5
+Walking the dog #1 #1​ (ID881),3.0
+"Walking, 2.5 mph, firm, level surface #1 #1​ (ID882)",3.0
+"Walking, 2.5 mph, downhill #1 #1​ (ID883)",3.3
+"Walking, 2.8 to 3.4 mph, level, moderate pace, firm surface #1 #1​ (ID884)",3.8
+"Walking, 3.5 to 3.9 mph, level, brisk, firm surface, walking for exercise #1 #1​ (ID885)",4.8
+"Walking, 4.0 to 4.4 mph #1 #1​ (ID886)",5.5
+"Walking, 4.5 to 4.9 mph, level, firm surface, very, very brisk #1 #1​ (ID887)",7.0
+"Walking, 5.0 to 5.5 mph #1 #1​ (ID888)",8.5
+"Walking, for pleasure, work break #1 #1​ (ID889)",3.5
+"Walking, self-selected speed, indoor track or outdoors, firm surface #1 #1​ (ID890)",4.0
+"Walking, grass track #1 #1​ (ID891)",4.8
+"Walking, normal pace, plowed field or sand #1 #1​ (ID892)",4.5
+"Walking, to work or class #1 #1​ (ID893)",4.0
+"Walking, to and from an outhouse #1 #1​ (ID894)",2.5
+"Walking, for exercise, 2.5 to 3.5 mph #1 #1​ (ID895)",4.3
+"Walking, for exercise, 3.6 to 4.4 mph #1 #1​ (ID896)",5.3
+"Walking, for exercise, 4.5 to 5.0 mph, with ski poles, Nordic walking, level, fast pace #1 #1​ (ID897)",8.5
+"Walking, for exercise, with ski poles, Nordic walking, uphill, moderate pace #1 #1​ (ID898)",8.8
+"Walking, for exercise, with ski poles, Nordic walking, level ground, carrying 20 to 30 lb load #1 #1​ (ID899)",10.8
+"Walking, for exercise, with ski poles, Nordic walking, uphill, carrying 20 to 30 lb load #1 #1​ (ID900)",12.3
+"Walking, backward, 3.5 mph, level #1 #1​ (ID901)",6.0
+"Walking, backward, 3.5 mph, uphill, 5% grade #1 #1​ (ID902)",7.8
+"Walking, Teabag walk, Monty Python Ministry of Silly Walks #1 #1​ (ID903)",8.0
+"Walking, Putey walk, Monty Python Ministry of Silly Walks #1 #1​ (ID904)",3.5
+"Walking, treadmill, less than 1.0 mph, 0% grade #1 #1​ (ID905)",2.1
+"Walking, treadmill, 1.0 mph, 0% grade #1 #1​ (ID906)",2.3
+"Walking, treadmill, 1.2 to 1.9 mph, 0% grade #1 #1​ (ID907)",2.8
+"Walking, treadmill, 2.0 to 2.4 mph #1 #1​ (ID908)",3.0
+"Walking, treadmill, 2.5 to 2.9 mph #1 #1​ (ID909)",3.5
+"Walking, treadmill, 3.0 to 3.4 mph #1 #1​ (ID910)",3.8
+"Walking, treadmill, 3.5 to 3.9 mph #1 #1​ (ID911)",4.8
+"Walking, treadmill, 4.0 to 4.4 mph #1 #1​ (ID912)",5.8
+"Walking, treadmill, 4.5 to 4.9 mph #1 #1​ (ID913)",6.8
+"Walking, treadmill, 5.0 to 5.5 mph #1 #1​ (ID914)",8.3
+"Walking, treadmill, downhill #1 #1​ (ID915)",3.3
+"Walking, treadmill, downhill #2 #1​ (ID916)",3.3
+"Walking, treadmill, 2.5 mph, 0% grade, 5 to 20 degrees C, 40 lb #1 #1​ (ID917)",4.8
+"Walking, treadmill, 2.5 mph, 0% grade, -10 to 0 degrees C, 40 lb #1 #1​ (ID918)",5.8
+"Walking, Curved treadmill, 3.0 to 5.0 mph, brisk pace #1 #1​ (ID919)",8.3
+"Walking treadmill, backwards, 2.5 mph, +10% grade #1 #1​ (ID920)",7.8
+"Walking, with a walker or step-to gait on treadmill, 0.7 mph #1 #1​ (ID921)",1.5
+"Boating, power, driving #1 #1​ (ID922)",2.5
+"Boating, power, passenger, light #1 #1​ (ID923)",1.3
+"Canoeing, on camping trip #1 #1​ (ID924)",4.0
+"Canoeing, harvesting wild rice, knocking rice off the stalks #1 #1​ (ID925)",3.3
+"Canoeing, portaging #1 #1​ (ID926)",7.0
+"Canoeing, rowing, 2.0-3.9 mph, light effort #1 #1​ (ID927)",2.8
+"Canoeing, rowing, 4.0-5.9 mph, moderate effort #1 #1​ (ID928)",5.8
+"Canoeing, rowing, kayaking, competition, > 6 mph, vigorous effort #1 #1​ (ID929)",12.5
+"Canoeing, rowing, for pleasure, general #1 #1​ (ID930)",3.5
+"Canoeing or rowing, in competition, crew or sculling #1 #1​ (ID931)",12.0
+"Diving, springboard or platform #1 #1​ (ID932)",3.0
+"Kayaking, moderate effort #1 #1​ (ID933)",5.0
+"Kayaking, competition #1 #1​ (ID934)",13.5
+"Kayaking, slalom, flat water #1 #1​ (ID935)",9.0
+Paddle boat #1 #1​ (ID936),4.0
+"Rowing, simulated crew in a water tank, single oar, 33 strokes/min, #1 #1​ (ID937)",15.5
+"Rowing, single scull, ergometer, ergometer on slides, racing speed #1 #1​ (ID938)",15.5
+"Sailing, boat and board sailing, windsurfing, ice sailing, general #1 #1​ (ID939)",3.0
+"Sailing, in competition, general #1 #1​ (ID940)",4.5
+"Sailing, in competition, high effort #1 #1​ (ID941)",9.3
+"Sailing, Sunfish/Laser/Hobby Cat, Keel boats, ocean sailing, yachting, leisure #1 #1​ (ID942)",3.3
+"Sailing, dingy #1 #1​ (ID943)",2.0
+"Skiing, water or wake boarding #1 #1​ (ID944)",6.0
+"Jet skiing, driving, in water #1 #1​ (ID945)",7.0
+"Skindiving, fast #1 #1​ (ID946)",15.8
+"Skindiving, moderate #1 #1​ (ID947)",11.8
+"Skindiving, scuba diving, general #1 #1​ (ID948)",7.0
+"Scuba diving, general, light effort #1 #1​ (ID949)",5.3
+"Scuba diving, general, moderate effort #1 #1​ (ID950)",5.8
+"Scuba diving, professional diver #1 #1​ (ID951)",5.5
+"Scuba diving, recreational diver #1 #1​ (ID952)",6.8
+Snorkeling #1 #1​ (ID953),5.0
+"Surfing, body or board, general #1 #1​ (ID954)",3.0
+"Surfboard, paddling #1 #1​ (ID955)",6.8
+"Surfing, body or board, competitive #1 #1​ (ID956)",5.0
+"Stand up paddle boarding, general #1 #1​ (ID957)",6.5
+"Stand up Paddleboard, standing, 10-19 strokes/min #1 #1​ (ID958)",2.8
+"Stand up Paddleboard, standing, 20-29 strokes/min #1 #1​ (ID959)",3.8
+"Stand up Paddleboard, standing, 30-39 strokes/min #1 #1​ (ID960)",5.0
+"Stand up Paddleboard, standing, 40-49 strokes/min #1 #1​ (ID961)",9.8
+"Stand up Paddleboard, standing, 50-69 strokes/min #1 #1​ (ID962)",11.0
+"Swimming laps, freestyle, fast, vigorous effort #1 #1​ (ID963)",9.8
+"Swimming laps, freestyle, slow, recreational #1 #1​ (ID964)",5.8
+"Swimming, backstroke, training or competition #1 #1​ (ID965)",9.5
+"Swimming, backstroke, recreational #1 #1​ (ID966)",4.8
+"Swimming, breaststroke, general, training or  competition #1 #1​ (ID967)",10.3
+"Swimming breaststroke, recreational #1 #1​ (ID968)",5.3
+"Swimming, butterfly, general #1 #1​ (ID969)",13.8
+"Swimming, crawl, fast speed, ~75 yards/minute,  vigorous effort #1 #1​ (ID970)",10.5
+"Swimming, open water, 5k #1 #1​ (ID971)",10.5
+"Swimming, crawl, medium speed, ~50 yards/minute, vigorous effort #1 #1​ (ID972)",8.0
+"Swimming, crawl, slow speed, 30-45 yards/minute, moderate effort #1 #1​ (ID973)",5.8
+"Swimming, crawl, elite swimmers, competition, >90 yards/minute #1 #1​ (ID974)",14.5
+"Swimming, lake, ocean, river #1 #1​ (ID975)",6.0
+"Swimming, leisurely, not lap swimming, general #1 #1​ (ID976)",6.0
+"Swimming, sidestroke, general #1 #1​ (ID977)",7.0
+"Swimming, synchronized #1 #1​ (ID978)",8.0
+"Swimming, treading water, fast, vigorous effort #1 #1​ (ID979)",9.8
+"Swimming, treading water, moderate effort,  general #1 #1​ (ID980)",3.5
+"Tubing, floating on a river, general #1 #1​ (ID981)",2.3
+"Water aerobics, water calisthenics, general #1 #1​ (ID982)",5.5
+"Water aerobics, resistance exercises #1 #1​ (ID983)",3.8
+"Water aerobics, high intensity #1 #1​ (ID984)",7.5
+Water polo #1 #1​ (ID985),10.0
+Water volleyball #1 #1​ (ID986),3.0
+"Water jogging, vigorous effort #1 #1​ (ID987)",9.8
+"Water walking, light effort, slow pace #1 #1​ (ID988)",2.5
+"Water walking, moderate effort, moderate pace #1 #1​ (ID989)",4.8
+"Water walking, vigorous effort, brisk pace #1 #1​ (ID990)",6.8
+"Whitewater rafting, kayaking, or canoeing #1 #1​ (ID991)",5.0
+"Water running, 30 steps/min, slow #1 #1​ (ID992)",6.5
+"Water running, 40 steps/min, moderate #1 #1​ (ID993)",7.5
+"Water running, 50 steps/min, fast #1 #1​ (ID994)",8.5
+"Water running, 60 steps/min, very fast #1 #1​ (ID995)",9.8
+"Windsurfing, not pumping for speed #1 #1​ (ID996)",5.0
+"Windsurfing or kitesurfing, crossing trial #1 #1​ (ID997)",11.0
+"Windsurfing, competition, pumping for speed #1 #1​ (ID998)",14.0
+"Aquatic cycling, 25 W, 40-50 RPM #1 #1​ (ID999)",2.8
+"Aquatic cycling, 25 W, 60-70 RPM #1 #1​ (ID1000)",4.8
+"Aquatic cycling, 50 W, 40-50 RPM #1 #1​ (ID1001)",3.8
+"Aquatic cycling,  50 W, 60-70 RPM #1 #1​ (ID1002)",6.0
+"Aquatic cycling, 75 W, 40-50 RPM #1 #1​ (ID1003)",5.0
+"Aquatic cycling, 75 W, 60-70 RPM #1 #1​ (ID1004)",6.3
+"Aquatic cycling, 100 W, 40-50 RPM #1 #1​ (ID1005)",6.3
+"Aquatic cycling, 100 W, 60-70 RPM #1 #1​ (ID1006)",7.5
+"Aquatic cycling, 80-89 RPM #1 #1​ (ID1007)",8.5
+"Aquatic cycling, 90+ RPM #1 #1​ (ID1008)",10.3
+"Dog sledding, mushing #1 #1​ (ID1009)",7.5
+"Dog sledding, passenger #1 #1​ (ID1010)",2.5
+"Moving icehouse, set up/drill holes #1 #1​ (ID1011)",6.0
+Ice fishing #1 #1​ (ID1012),2.0
+"Skating, ice dancing #1 #1​ (ID1013)",14.0
+"Skating, ice, 9 mph or less #1 #1​ (ID1014)",5.5
+"Skating, ice, general #1 #1​ (ID1015)",7.0
+"Skating, ice, rapidly, more than 9 mph but not competitive #1 #1​ (ID1016)",9.0
+"Skating Treadmill, 6 - 6.9 mph, 2% grade #1 #1​ (ID1017)",9.0
+"Skating Treadmill, 7 - 7.9 mph, 2% grade #1 #1​ (ID1018)",10.0
+"Skating Treadmill, 8 - 8.9 mph, 2% grade #1 #1​ (ID1019)",10.5
+"Skating Treadmill, 9 - 9.9 mph, 2% grade #1 #1​ (ID1020)",11.0
+"Skating, speed, competitive #1 #1​ (ID1021)",13.8
+"Ski jumping, climb up carrying skis #1 #1​ (ID1022)",7.0
+"Skiing, general #1 #1​ (ID1023)",7.0
+"Skiing, cross country, 2.5 mph, slow or light effort, ski walking #1 #1​ (ID1024)",6.8
+"Skiing, cross country, 4.0-4.9 mph, moderate speed and effort, general #1 #1​ (ID1025)",8.5
+"Skiing, cross country, 5.0-7.9 mph, brisk speed, vigorous effort #1 #1​ (ID1026)",11.3
+"Skiing, cross country, elite skier, >8.0-11.9 mph, racing #1 #1​ (ID1027)",14.0
+"Skiing, cross country, 12-16 mph, elite skier, racing #1 #1​ (ID1028)",16.0
+"Skiing, cross-country skiing high-intensity training #1 #1​ (ID1029)",9.5
+"Skiing, cross country, hard snow, uphill, maximum, snow mountaineering #1 #1​ (ID1030)",15.5
+"Skiing, cross-country, skating #1 #1​ (ID1031)",13.3
+"Skiing, cross-country, biathlon, skating technique #1 #1​ (ID1032)",13.5
+"Biathlon training, 5 degree incline, 8 km/h #1 #1​ (ID1033)",12.8
+"Biathlon training, 5 degree incline, 10.7 km/h #1 #1​ (ID1034)",12.8
+"Skiing, slalom #1 #1​ (ID1035)",9.3
+"Skiing, downhill, alpine or snowboarding, light effort, active time only #1 #1​ (ID1036)",4.3
+"Skiing, downhill, alpine or snowboarding, moderate effort, general, active time only #1 #1​ (ID1037)",6.3
+"Skiing, downhill, alpine or snowboarding, vigorous effort, active time only #1 #1​ (ID1038)",8.0
+"Skiing, Alpine skiing high-intensity training #1 #1​ (ID1039)",7.3
+"Sledding, tobogganing, bobsledding, luge #1 #1​ (ID1040)",7.0
+"Snow shoeing, moderate effort #1 #1​ (ID1041)",5.3
+"Snow shoeing, vigorous effort #1 #1​ (ID1042)",10.0
+"Snowmobiling, driving, moderate pace, flat land #1 #1​ (ID1043)",3.8
+"Snowboarding, recreational, moderate pace, mountain #1 #1​ (ID1044)",7.5
+"Snowmobiling, passenger, light #1 #1​ (ID1045)",2.0
+"Snow shoveling, by hand, moderate effort #1 #1​ (ID1046)",5.3
+"Snow shoveling, by hand, vigorous effort #1 #1​ (ID1047)",7.5
+"Snow blower, walking and pushing #1 #1​ (ID1048)",2.5
+"Skiing, roller, elite racers #1 #1​ (ID1049)",12.5
+"Rollerskiing, 10 - 12.9 km/h, no incline #1 #1​ (ID1050)",5.5
+"Rollerskiing, 13 - 16.9 km/h, no incline #1 #1​ (ID1051)",6.8
+"Rollerskiing, 17 - 19.9 km/h, no incline #1 #1​ (ID1052)",8.3
+"Rollerskiing, 20 - 23.9 km/h, no incline #1 #1​ (ID1053)",10.5
+"Rollerskiing, 24 - 27.9 km/h, no incline #1 #1​ (ID1054)",15.0
+"Rollerskiing, 10-15 km/h, 2-5 degree incline #1 #1​ (ID1055)",12.5
+"Rollerskiing, 16-22 km/h, 2-5 degree incline #1 #1​ (ID1056)",14.3
+"Rollerskiing, 6-9 km/h, 6-10 degree incline #1 #1​ (ID1057)",12.3
+"Rollerskiing, >10 km/h, 6-10 degree incline #1 #1​ (ID1058)",16.0
+"Mountaineering, downhill climbing, walking down with rope #1 #1​ (ID1059)",9.0
+"Mountaineering, downhill climbing/cross-country skiing #1 #1​ (ID1060)",10.3
+"Sitting in church, in service, attending a ceremony, sitting quietly #1 #1​ (ID1061)",1.0
+"Sitting, playing an instrument at church #1 #1​ (ID1062)",2.0
+"Sitting in church, talking or singing, attending a ceremony, sitting, active participation #1 #1​ (ID1063)",1.8
+"Sitting, reading religious materials at home #1 #1​ (ID1064)",1.5
+"Standing quietly in church, attending a ceremony #1 #1​ (ID1065)",1.3
+"Standing, singing in church, attending a ceremony, standing, active participation #1 #1​ (ID1066)",2.0
+"Kneeling in church or at home, praying #1 #1​ (ID1067)",1.3
+"Standing, talking in church #1 #1​ (ID1068)",1.3
+Walking in church #1 #1​ (ID1069),2.0
+"Walking, less than 2.0 mph, very slow #1 #1​ (ID1070)",2.0
+"Walking, 2.8 to 3.4 mph, moderate speed, not carrying anything #1 #1​ (ID1071)",3.8
+"Walking, 3.5 to 3.9 mph, brisk speed, not carrying anything #1 #1​ (ID1072)",4.8
+"Walk/stand combination for religious purposes, usher #1 #1​ (ID1073)",2.0
+"Praise with dance or run, spiritual dancing in church #1 #1​ (ID1074)",5.0
+Serving food at church #1 #1​ (ID1075),2.3
+Preparing food at church #1 #1​ (ID1076),2.0
+"Washing dishes, cleaning kitchen at church #1 #1​ (ID1077)",3.3
+Eating at church #1 #1​ (ID1078),1.5
+"Eating/talking at church or standing eating, American Indian Feast days #1 #1​ (ID1079)",2.0
+Cleaning church #1 #1​ (ID1080),3.3
+General yard work at church #1 #1​ (ID1081),4.0
+"Standing , moderate effort #1 #1​ (ID1082)",3.8
+"Standing, moderate-to-heavy effort, manual labor, lifting ≥ 50 lbs, heavy maintenance #1 #1​ (ID1083)",4.5
+"Typing, electric, manual, or computer #1 #1​ (ID1084)",1.3
+"Sitting, meeting, general, and/or with talking involved #1 #1​ (ID1085)",1.3
+"Sitting, light office work, in general #1 #1​ (ID1086)",1.5
+"Sitting, moderate work #1 #1​ (ID1087)",2.5
+"Standing, light work #1 #1​ (ID1088)",1.8
+"Sitting, child care, only active periods #1 #1​ (ID1089)",2.0
+"Standing, child care, only active periods #1 #1​ (ID1090)",3.5
+"Walk/run play with children, moderate, only active periods #1 #1​ (ID1091)",3.5
+"Walk/run play with children, vigorous, only active periods #1 #1​ (ID1092)",5.8
+"Standing, light/moderate work #1 #1​ (ID1093)",3.3
+"Standing, moderate #1 #1​ (ID1094)",3.5
+"Standing, moderate/heavy work #1 #1​ (ID1095)",4.5
+"Typing, electric, manual, or computer #2 #1​ (ID1096)",1.3
+"Walking, less than 2.0 mph, very slow #2 #1​ (ID1097)",2.3
+"Walking, 2.8 to 3.4 mph, moderate speed, not carrying anything #2 #1​ (ID1098)",3.8
+"Walking, 3.5 to 3.9 mph, brisk speed, not carrying anything #2 #1​ (ID1099)",4.8
+"Walking, 2.5 mph slowly and carrying objects less than 25 pounds #1 #1​ (ID1100)",3.5
+"Walking, 3.0 mph moderately and carrying objects less than 25 pounds, pushing something #1 #1​ (ID1101)",4.5
+"Walking, 3.5 mph, briskly and carrying objects less than 25 pounds #1 #1​ (ID1102)",4.5
+"Walk/stand combination, for volunteer purposes #1 #1​ (ID1103)",3.0
+"Seated, video game, handheld controller #1 #1​ (ID1104)",1.3
+"Video game, handheld controller #1 #1​ (ID1105)",1.5
+"Video game, light effort #1 #1​ (ID1106)",2.3
+"Active video game, motion sensing game/using upper body #1 #1​ (ID1107)",3.0
+"Active video game, motion sensing game/using total body #1 #1​ (ID1108)",4.0
+"Active video game, motion sensing game/using total body #2 #1​ (ID1109)",5.0
+"Active video game, motion sensing game/using total body, exergames, workouts, dancing #1 #1​ (ID1110)",7.5
+"Conditioning/exercise virtual reality fitness, vigorous intensity #1 #1​ (ID1111)",9.8
+"Bicycling, stationary, general, moderate effort #1 #1​ (ID1112)",5.253480430785395
+"Bicycling, stationary, 30-50 watts, moderate effort #1 #1​ (ID1113)",4.260166138071897
+"Bicycling, stationary, 90-100 watts, vigorous effort #1 #1​ (ID1114)",6.3
+"Bicycling, stationary, 101-160 watts, vigorous effort #1 #1​ (ID1115)",7.8
+"Bicycling, stationary, 51-89 watts, moderate-to-vigorous effort #1 #1​ (ID1116)",4.518338318114103
+Calisthenics #4 #1​ (ID1117),3.5
+"Circuit training, Parcour-type, moderate effort #1 #1​ (ID1118)",4.5
+"Elliptical trainer, light effort #1 #1​ (ID1119)",3.0
+Resistance #4 #1​ (ID1120),3.0
+"Resistance Training, general, light effort #1 #1​ (ID1121)",2.3
+Resistance #5 #1​ (ID1122),4.3
+"Health club exercise, conditioning classes #2 #1​ (ID1123)",4.954980842911877
+"Health club exercise, conditioning classes, chair-based #1 #1​ (ID1124)",3.8
+"Rowing, stationary, 50 to 99 watts, moderate-to-vigorous effort #1 #1​ (ID1125)",6.5
+"Rowing, stationary, 100 to 149 watts, vigorous effort #2 #1​ (ID1126)",9.0
+"Therapeutic exercise ball, Fitball exercise, chair exercise #1 #1​ (ID1127)",3.5
+"Yoga, general #1 #1​ (ID1128)",2.5
+"Yoga, chair, general #1 #1​ (ID1129)",2.7713920817369093
+"Tai Chi, general #1 #1​ (ID1130)",3.8430314707771354
+"Tai Chi, chair, general #1 #1​ (ID1131)",2.8
+Ballroom Dance #1 #1​ (ID1132),6.0
+"Dance class, General #1 #1​ (ID1133)",6.334584058118687
+Smooth Dance #1 #1​ (ID1134),7.34567901234568
+"Cleaning, sweeping carpet or floors, general #2 #1​ (ID1135)",4.3
+"Cleaning, mopping, standing, Moderate effort #1 #1​ (ID1136)",4.3
+"Cleaning windows, washing windows, general #2 #1​ (ID1137)",3.5
+"Cleaning, mopping, standing, light effort #1 #1​ (ID1138)",3.0
+"Dusting or polishing furniture, general #2 #1​ (ID1139)",4.0
+"Cleaning, carrying out trash #1 #1​ (ID1140)",4.501752484191509
+"Wash dishes, standing or in general #2 #1​ (ID1141)",2.5
+"Cleaning, vacuuming, general, moderate effort #1 #1​ (ID1142)",4.3
+"Cooking, serving food, setting table, implied walking or standing #1 #1​ (ID1143)",2.8
+Putting away groceries/dishes #1 #1​ (ID1144),3.0
+"Food shopping with or without a grocery cart, standing or walking #1 #1​ (ID1145)",3.7729041056560435
+Ironing #2 #1​ (ID1146),2.8
+"Laundry, fold or hang clothes, put clothes in washer or dryer, packing suitcase, washing clothes by hand, implied standing, light effort #1 #1​ (ID1147)",2.0
+"Laundry, hanging wash, washing clothes by hand, moderate effort #1 #1​ (ID1148)",3.5235555555555553
+"Making bed, changing linens #2 #1​ (ID1149)",4.0
+"Moving furniture, household items, carrying boxes #2 #1​ (ID1150)",5.0
+"Home repair, general, moderate effort #2 #1​ (ID1151)",3.958580858085808
+Lying quietly and watching television #2 #1​ (ID1152),1.3
+"Lying quietly, doing nothing, lying in bed awake, #1 #1​ (ID1153)",1.3
+Sitting quietly and watching television #1 #1​ (ID1154),1.3
+"Sitting quietly, general #2 #1​ (ID1155)",1.3
+"Standing quietly, standing in a line #1 #1​ (ID1156)",1.4611918965945814
+"Digging, spading, filling garden, compositing, moderate effort #1 #1​ (ID1157)",4.841222523336344
+"Digging, spading, filling garden, composting, vigorous effort #2 #1​ (ID1158)",7.333333333333333
+"Gardening, building garden bed #1 #1​ (ID1159)",4.8
+"Gardening, mixing soil #1 #1​ (ID1160)",3.0322061191626406
+Laying mulch #1 #1​ (ID1161),3.5
+"Mowing lawn, general #1 #1​ (ID1162)",6.8
+"Planting, potting, transplanting seedlings or plants, light-moderate effort #1 #1​ (ID1163)",3.298660362490149
+"Raking lawn or leaves, moderate effort #2 #1​ (ID1164)",3.9995293550218984
+"Trimming shrubs or trees, manual cutter #2 #1​ (ID1165)",3.271111111111111
+"Trimming shrubs or trees, power cutter, using leaf blower, edge, moderate effort #1 #1​ (ID1166)",3.8481481481481477
+"Walking, applying fertilizer #1 #1​ (ID1167)",5.3
+"Watering lawn or garden, standing or walking #2 #1​ (ID1168)",3.3
+"Weeding, cultivating garden, light-to-moderate effort #2 #1​ (ID1169)",4.8
+"Picking fruit off trees, picking fruits/vegetables, moderate effort #1 #1​ (ID1170)",3.5
+"Yard work, general, moderate effort #1 #1​ (ID1171)",4.975711218464841
+"Gardening, general, moderate effort #2 #1​ (ID1172)",3.81351917288313
+"Card playing, sitting #1 #1​ (ID1173)",1.5037037037037035
+"Typing, electric, manual or computer #2 #1​ (ID1174)",1.4937932437932435
+"Running, 3.6 mph #1 #1​ (ID1175)",8.537037037037036
+"Running, 7 mph #2 #1​ (ID1176)",15.814814814814815
+"Dressing, undressing, standing or sitting #2 #1​ (ID1177)",2.9646730462519932
+"Grooming, washing hands, shaving, brushing teeth, putting on make-up, sitting or standing #1 #1​ (ID1178)",2.7870370370370363
+"Golf, walking, pulling clubs #2 #1​ (ID1179)",4.3
+"Horseback riding, simulated #1 #1​ (ID1180)",2.8
+"Pickleball, competitive #1 #1​ (ID1181)",5.314814814814814
+"Walking for transportation, 2.8-3.2 mph, level, moderate pace, firm surface #2 #1​ (ID1182)",4.3
+"Stair climbing, slow pace #2 #1​ (ID1183)",4.0
+"Stair climbing, fast pace #1 #1​ (ID1184)",6.5
+"Ascending stairs, using cane #1 #1​ (ID1185)",2.0
+"Ascending stairs, using standard walker #1 #1​ (ID1186)",3.0481481481481483
+"Ascending stairs, using wheeled walker #1 #1​ (ID1187)",3.3
+"Walking, less than 1.0 mph, level, strolling, very slow #1 #1​ (ID1188)",3.0
+"Walking, 1.0 to 1.9 mph, level, slow pace, firm surface #1 #1​ (ID1189)",4.0
+"Walking, 2.0 mph, level, slow pace, firm surface #1 #1​ (ID1190)",3.8113325281803534
+"Walking, 2.2 to 2.7 mph, level, firm surface #1 #1​ (ID1191)",4.541739255959746
+"Walking, 2.8 to 3.2 mph, level, moderate pace, firm surface #1 #1​ (ID1192)",5.251888333729876
+"Walking, 3.3 to 3.7 mph, level, brisk, firm surface, walking for exercise #1 #1​ (ID1193)",6.0
+"Walking, brisk pace, general #1 #1​ (ID1194)",5.5
+"Walking, 1.5 to 2.0 mph, 2.5 to 5% grade #1 #1​ (ID1195)",5.011572272661766
+"Walking, 4.0 to 4.2 mph, level, firm surface, very brisk pace #1 #1​ (ID1196)",7.3
+"Walking, 4.5 mph, level, firm surface, very, very brisk #1 #1​ (ID1197)",9.0
+"Walking, leasurly, self-selected pace, general #1 #1​ (ID1198)",4.0
+"Walking, for exercise, with ski poles, Nordic walking, #1 #1​ (ID1199)",7.0
+"Walking, with a cane #1 #1​ (ID1200)",3.475555555555556
+"Walking, with standard walker #1 #1​ (ID1201)",3.5
+"Walking, with wheeled Walker #1 #1​ (ID1202)",3.5
+"Skiing, downhill, alpine or snowboarding, moderate effort, general, active time only #2 #1​ (ID1203)",5.3
+"Skiing, downhill, alpine or snowboarding, vigorous effort, general, active time only #1 #1​ (ID1204)",6.8
+"Snow shoveling, by hand, vigorous effort #2 #1​ (ID1205)",8.0
+"Seated, video game, handheld controller #2 #1​ (ID1206)",1.8
+"Video game, light effort #2 #1​ (ID1207)",2.814155251141552
+"Active video game, motion sensing game/using upper body #2 #1​ (ID1208)",3.517523493642896
+"Active video game, motion sensing game/using total body #3 #1​ (ID1209)",5.509259259259259
+"Active video game, motion sensing game/using total body #4 #1​ (ID1210)",7.8
+Aerobics #1 #1​ (ID1211),1.7
+Arm Ergometry 16W #1 #1​ (ID1212),2.2
+Arm Ergometry 20W #1 #1​ (ID1213),2.3
+Arm Ergometry 30-32W #1 #1​ (ID1214),2.7
+Arm Ergometry 40-48W #1 #1​ (ID1215),3.5
+Arm Ergometry  60-64W #1 #1​ (ID1216),4.6
+Arm Ergometry 80W #1 #1​ (ID1217),4.4
+Arm Ergometry 96W #1 #1​ (ID1218),5.4
+Arm Ergometry #1 #1​ (ID1219),2.3
+Arm Ergometry exercise #1 #1​ (ID1220),4.3
+Eccentric Arm Ergometry #1 #1​ (ID1221),2.2
+Handcycle - 8 km/h #1 #1​ (ID1222),3.0
+Handcycle - 16 km/h #1 #1​ (ID1223),7.5
+Handcycle ergometer #1 #1​ (ID1224),3.6
+Handcycle racing #1 #1​ (ID1225),4.5
+Resistance #6 #1​ (ID1226),2.1
+Circuit Training #1 #1​ (ID1227),2.3
+Resistance band #1 #1​ (ID1228),1.5
+Wheelchair pushups #1 #1​ (ID1229),2.0
+Skill Parcour #1 #1​ (ID1230),3.4
+Heavy-bag boxing #1 #1​ (ID1231),4.4
+Wheeling 10-18W #1 #1​ (ID1232),2.7
+Wheeling 20-26W #1 #1​ (ID1233),3.3
+Wheeling - 30-35W #1 #1​ (ID1234),4.1
+Wheeling - 50W #1 #1​ (ID1235),3.9
+Wheelchair dynamometer - 3.2 km/h #1 #1​ (ID1236),2.8
+Wheelchair dynamometer - 4.8 km/h #1 #1​ (ID1237),3.6
+Wheelchair - slalom course #1 #1​ (ID1238),3.1
+Wheeling indoor course 2.57 km/h #1 #1​ (ID1239),1.8
+Wheeling indoor course 3.4-3.9 km/h #1 #1​ (ID1240),2.3
+Wheeling indoor course 4.5-4.8 km/h #1 #1​ (ID1241),2.2
+Wheeling indoor course 5.0-5.5 km/h #1 #1​ (ID1242),2.9
+Wheeling indoor course 6.5 km/h #1 #1​ (ID1243),4.8
+Wheeling outdoor track 1.5 km/h #1 #1​ (ID1244),2.7
+Wheeling outdoor track 2.0 km/h #1 #1​ (ID1245),1.9
+Wheeling outdoor track 3.4 km/h #1 #1​ (ID1246),4.0
+Wheeling outdoor track 4.0-4.3 km/h #1 #1​ (ID1247),3.8
+Wheeling outdoor track 5.5 km/h #1 #1​ (ID1248),4.3
+Wheeling outdoor track 6.0 km/h #1 #1​ (ID1249),4.0
+Wheeling outdoor track 8.0 km/h #1 #1​ (ID1250),5.9
+Wheeling - racing #1 #1​ (ID1251),7.9
+Wheeling - Ergometer #1 #1​ (ID1252),3.2
+Treadmill Wheeling 2.2-2.9 km/h #1 #1​ (ID1253),2.4
+Treadmill Wheeling - 3.0-3.9 km/h #1 #1​ (ID1254),2.8
+Treadmill Wheeling - 4.0-4.9 km/h #1 #1​ (ID1255),3.4
+Treadmill Wheeling - 5.8 km/h #1 #1​ (ID1256),3.4
+Treadmill Wheeling - 6.0 km/h #1 #1​ (ID1257),3.5
+Treadmill Wheeling - 7.0-7.9 km/h #1 #1​ (ID1258),4.2
+"Treadmill Wheeling - 2.2-2.9 km/h , 4.7% grade #1 #1​ (ID1259)",3.8
+"Treadmill Wheeling - 3.6 km/h , 4.7% grade #1 #1​ (ID1260)",4.4
+"Treadmill Wheeling - 2.2-2.9 km/h , 6.3% grade #1 #1​ (ID1261)",4.2
+"Treadmill Wheeling - 3.6 km/h , 6.3% grade #1 #1​ (ID1262)",5.2
+"Treadmill Wheeling - 2.2-2.9 km/h , 8.4% grade #1 #1​ (ID1263)",4.8
+"Treadmill Wheeling - 3.6 km/h , 8.4% grade #1 #1​ (ID1264)",5.2
+Treadmill Wheeling - 4.0 km/h w/ extra weight #1 #1​ (ID1265),2.1
+"Treadmill Wheeling - 4.0 km/h, 2% grade #1 #1​ (ID1266)",2.7
+"Treadmill Wheeling - 4.0 km/h, 3% grade #1 #1​ (ID1267)",3.4
+Wheeling using Handle-based Propulsion - 15W #1 #1​ (ID1268),2.6
+Wheeling using Handle-based Propulsion - 20W #1 #1​ (ID1269),3.6
+Wheeling using Handle-based Propulsion - 25W #1 #1​ (ID1270),4.4
+Wheeling using Handle-based Propulsion - 30W #1 #1​ (ID1271),5.0
+Wheeling using Handle-based Propulsion - 35W #1 #1​ (ID1272),5.3
+Wheeling using Handle-based Propulsion - 2.5 to 2.9 km/h #1 #1​ (ID1273),1.8
+Wheeling dynamometer w/ PAPAW - 15W #1 #1​ (ID1274),2.3
+Wheeling dynamometer w/ PAPAW - 30W #1 #1​ (ID1275),3.5
+Wheeling on outdoor course w/PAPAW - 5.4 km/h #1 #1​ (ID1276),3.4
+Making Bed #1 #1​ (ID1277),2.2
+Dressing/undressing #1 #1​ (ID1278),3.1
+Dusting #1 #1​ (ID1279),1.8
+Laundry #1 #1​ (ID1280),1.8
+Mopping #1 #1​ (ID1281),3.0
+"Moving furniture, household items, or boxes #1 #1​ (ID1282)",3.7
+Moving items #1 #1​ (ID1283),2.5
+Showering #1 #1​ (ID1284),1.9
+Vacuuming #1 #1​ (ID1285),2.7
+Washing Dishes #1 #1​ (ID1286),1.9
+Eating #1 #1​ (ID1287),1.5
+Preparing food #1 #1​ (ID1288),1.8
+Grocery shopping #1 #1​ (ID1289),1.9
+Sweeping floor #1 #1​ (ID1290),2.3
+Cleaning Room #1 #1​ (ID1291),1.8
+Checking Mail #1 #1​ (ID1292),1.8
+Cleaning Car #1 #1​ (ID1293),2.1
+Transfer to/from wheelchair #1 #1​ (ID1294),3.1
+"Deskwork, light effort #1 #1​ (ID1295)",1.1
+Reading #1 #1​ (ID1296),1.2
+Watching TV #1 #1​ (ID1297),1.2
+Passive Wheeling #1 #1​ (ID1298),1.1
+Writing/crossword puzzles #1 #1​ (ID1299),1.3
+riding an elevator #1 #1​ (ID1300),1.5
+playing with iPAD #1 #1​ (ID1301),1.4
+"Filing papers, light effort #1 #1​ (ID1302)",0.8
+Computer work #1 #1​ (ID1303),1.2
+Basketball #1 #1​ (ID1304),5.1
+Basketball - casual #1 #1​ (ID1305),3.2
+Billiards #2 #1​ (ID1306),1.8
+Bowling #2 #1​ (ID1307),1.8
+Darts #1 #1​ (ID1308),2.0
+Fencing #1 #1​ (ID1309),7.1
+Fishing/casting #1 #1​ (ID1310),1.1
+Nordic sit skiing #1 #1​ (ID1311),11.8
+Rugby #1 #1​ (ID1312),2.7
+Table tennis #1 #1​ (ID1313),2.7
+Tennis #1 #1​ (ID1314),4.1
+Power Wheelchair Soccer - competitive #1 #1​ (ID1315),1.8
+Video gaming #1 #1​ (ID1316),1.5
+Playing cards #1 #1​ (ID1317),1.5
+"Dance - Modern, torso controlled wheelchair #1 #1​ (ID1318)",2.0
+Dance - slow paced #1 #1​ (ID1319),2.0
+Dance - fast paced #1 #1​ (ID1320),3.1
+Dance - Electric power chair #1 #1​ (ID1321),1.7
+Exergaming #1 #1​ (ID1322),2.6
+Wheeling - On Carpet #1 #1​ (ID1323),2.5
+Wheeling - on Grass #1 #1​ (ID1324),4.0
+Wheeling - Outside #1 #1​ (ID1325),2.6
+Wheeling - w/ service dog assistance #1 #1​ (ID1326),1.5
+"Wheeling outdoor, 8% cross slope #1 #1​ (ID1327)",3.5
+"Wheeling outdoor, 12% cross slope #1 #1​ (ID1328)",4.0
+Wheeling - on Sidewalk #1 #1​ (ID1329),3.2
+Wheeling - self-selected speed #1 #1​ (ID1330),2.9
+Driving an automobile #1 #1​ (ID1331),1.8
+Wheeling - On Tile #1 #1​ (ID1332),2.2
+Wheeling - up Incline #1 #1​ (ID1333),4.0
+Wheeling - Downhill #1 #1​ (ID1334),1.8
+Age #1 #1​ (ID1335),6.0
+Active classroom instruction #1 #1​ (ID1336),4.3
+"Broadcast calisthenics—""colorful sunshine"" #1 #1​ (ID1337)",4.0
+"Broadcast calisthenics—""flourishing youth"" #1 #1​ (ID1338)",4.1
+"Broadcast calisthenics—""flying ideal"" #1 #1​ (ID1339)",3.6
+"Broadcast calisthenics—""hopeful sail"" #1 #1​ (ID1340)",3.8
+Calisthenics—light #1 #1​ (ID1341),4.0
+Gymnastics #1 #1​ (ID1342),2.7
+Jumping jacks #1 #1​ (ID1343),4.6
+Radio gymnastics #1 #1​ (ID1344),3.5
+Strength exercises—curl-ups #1 #1​ (ID1345),2.4
+Strength exercises—push-ups #1 #1​ (ID1346),3.9
+Hand weights exercises #1 #1​ (ID1347),3.0
+Strength exercises—bench press #1 #1​ (ID1348),2.0
+Strength exercises—leg press #1 #1​ (ID1349),2.6
+Basketball—game #1 #1​ (ID1350),6.7
+Basketball—shooting and retrieving a basketball continuously #1 #1​ (ID1351),5.9
+Basketball game #1 #1​ (ID1352),4.9
+Bowling—game #1 #1​ (ID1353),5.2
+Boxing—punching bag and gloves #1 #1​ (ID1354),4.9
+Catch/throw ball #1 #1​ (ID1355),4.1
+Golf—game #1 #1​ (ID1356),4.0
+Handball #1 #1​ (ID1357),5.4
+Swimming—200m #1 #1​ (ID1358),10.6
+Swimming—front crawl 0.9 m/s #1 #1​ (ID1359),9.7
+Swimming—self-selected pace #1 #1​ (ID1360),9.5
